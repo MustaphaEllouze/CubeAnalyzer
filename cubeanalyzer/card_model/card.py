@@ -9,13 +9,15 @@ class Card(BaseModel):
     color : Color
     mana_value : int
     card_types : tuple[CardType]
+    id : int
 
     def __str__(self, )->str:
         return f'Card('\
                f'name="{self.name}", '\
                f'color={self.color}, '\
                f'card_types={self.card_types}, '\
-               f'mana_value={self.mana_value}'\
+               f'mana_value={self.mana_value}, '\
+               f'id={self.id}'\
                f')'
     
     @classmethod
@@ -24,11 +26,13 @@ class Card(BaseModel):
         name:str,
         color:str,
         mana_value:int,
-        card_types : tuple[str]
+        card_types : tuple[str],
+        id : int
     )->Self:
         return Card(
             name=name,
             color=get_color(color),
             mana_value=mana_value,
-            card_types=tuple(get_type(t) for t in card_types)
+            card_types=tuple(get_type(t) for t in card_types),
+            id=id,
         )

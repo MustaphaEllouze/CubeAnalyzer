@@ -4,13 +4,15 @@
             "name" : "Snuff Out",
             "color" : "black",
             "card_types" : ["instant"],
-            "mana_value" : 4
+            "mana_value" : 4,
+            "id" : 1
         },
         {
             "name" : "Fading Hope",
             "color" : "blue",
             "card_types" : ["instant"],
-            "mana_value" : 1
+            "mana_value" : 1,
+            "id" : 2
         }
     ]
 }

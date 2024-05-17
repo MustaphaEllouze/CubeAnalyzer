@@ -18,7 +18,8 @@ class CardsConstructor :
                 name = card.get('name', None),
                 color = card.get('color', None),
                 mana_value = card.get('mana_value', None),
-                card_types = card.get('card_types', None)
+                card_types = card.get('card_types', None),
+                id = card.get('id', None)
             )
             for card in data   
         )

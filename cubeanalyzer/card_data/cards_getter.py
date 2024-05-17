@@ -7,8 +7,20 @@ class CardsGetter :
         json_data=CARDS_DATA_JSON_FILE,
     )
 
+    # Check that there is unique IDs
+    __check_id_list = []
+    for c in CARDS :
+        if c.id in __check_id_list : 
+            raise ValueError(f'{c.name} uses an already taken id.')
+        __check_id_list.append(c.id)
+
     CARDS_FROM_NAME = {
         c.name:c
+        for c in CARDS
+    }
+
+    CARDS_FROM_ID = {
+        c.id:c
         for c in CARDS
     }
 
@@ -18,3 +30,11 @@ class CardsGetter :
         card_name:str,
     )->Card:
         return CardsGetter.CARDS_FROM_NAME.get(card_name, None)
+    
+    @classmethod
+    def get_card_from_id(
+        cls,
+        card_id : int,
+
+    )->Card:
+        return CardsGetter.CARDS_FROM_ID.get(card_id, None)
