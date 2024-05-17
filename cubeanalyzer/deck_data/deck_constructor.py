@@ -9,11 +9,11 @@ class DeckConstructor :
     @classmethod
     def contruct_decks(cls, json_data:str)->tuple[Deck]:
 
-        # Read data the json card data file, then create corresponding decks
+        # Read data the json deck data file, then create corresponding decks
         with open(json_data) as json_file :
             data : list[dict[str, Any]] = json.load(json_file)['decks']
 
-        # Iterable of cards
+        # Iterable of decks
         decks = tuple(
             Deck(
                 cards=[

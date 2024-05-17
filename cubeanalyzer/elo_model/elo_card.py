@@ -8,16 +8,31 @@ class EloCard(BaseModel):
     card : Card
     tracker : EloTracker
 
+    @property
+    def name(self, )->str:
+        return self.card.name
+    
+    @property
+    def id(self, )->int:
+        return self.card.id
+
     @classmethod
-    def from_card(cls, card:Card):
+    def from_card(cls, card:Card)->Self:
         return EloCard(
             card=card,
             tracker=EloTracker.initialize_elo(),
         )
     
+    @classmethod
+    def from_card_and_elo(cls, card:Card, elo:float)->Self:
+        return EloCard(
+            card=card,
+            tracker=EloTracker(elo = elo)
+        )
+
     def update_elo(
             self,
-            target_elo:int,
+            target_elo:float,
             ascending:bool,
     )->None:
         self.tracker.update_elo(target_elo=target_elo, ascending=ascending)

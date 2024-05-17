@@ -37,4 +37,6 @@ class CardsGetter :
         card_id : int,
 
     )->Card:
+        if not card_id in CardsGetter.CARDS_FROM_ID : 
+            raise ValueError(f'Card with ID {card_id} does not exist.')
         return CardsGetter.CARDS_FROM_ID.get(card_id, None)

@@ -7,7 +7,7 @@ MAX_OFFSET = 400
 SCALING_COEF = 0.1
 
 class EloTracker(BaseModel):
-    elo : int
+    elo : float
 
     @classmethod
     def initialize_elo(cls)->Self:
