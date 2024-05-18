@@ -13,6 +13,20 @@
             "card_types" : ["instant"],
             "mana_value" : 1,
             "id" : 2
+        },
+        {
+            "name" : "Bone Shards",
+            "color" : "black",
+            "card_types" : ["sorcery"],
+            "mana_value" : 1,
+            "id" : 3
+        },
+        {
+            "name" : "Chandra, Torch of Defiance",
+            "color" : "red",
+            "card_types" : ["planeswalker"],
+            "mana_value" : 4,
+            "id" : 4
         }
     ]
 }

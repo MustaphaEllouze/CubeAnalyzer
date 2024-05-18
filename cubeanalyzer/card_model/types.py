@@ -15,6 +15,7 @@ class CardType(Enum):
     ENCHANTEMENT = TypeData(name='enchantment', symbol='e')
     BATTLE       = TypeData(name='battle',      symbol='b')
     KINDRED      = TypeData(name='kindred',     symbol='k')
+    PLANESWALKER = TypeData(name='planeswalker',symbol='p')
 
 SYMBOL_TO_TYPE = {c.value.symbol:c for c in CardType}
 NAME_TO_TYPE   = {c.value.name:c   for c in CardType}

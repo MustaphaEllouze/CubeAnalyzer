@@ -6,6 +6,7 @@ from .elo import EloTracker
 
 class EloDeck(BaseModel):
     deck : tuple[EloCard, ...]
+    id : int
 
     @property
     def elo(self, )->EloTracker:
