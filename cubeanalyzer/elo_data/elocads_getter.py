@@ -33,3 +33,9 @@ class ElocardsGetter :
         if not card_id in ElocardsGetter.CARDS_FROM_ID : 
             raise ValueError(f'EloCard with ID {card_id} does not exist.')
         return ElocardsGetter.CARDS_FROM_ID.get(card_id, None)
+    
+    @classmethod
+    def get_all_cards(
+        cls,
+    )->tuple[EloCard]:
+        return cls.CARDS
