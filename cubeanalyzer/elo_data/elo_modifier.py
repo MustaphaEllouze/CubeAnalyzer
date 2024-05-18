@@ -1,6 +1,6 @@
 import json
 
-from ..constants import CARD_ELO_JSON_FILE
+from ..constants import CARD_ELO_COMPILED_JSON_FILE
 from ..elo_model.elo_card import EloCard
 from ..elo_data.elocads_getter import ElocardsGetter
 
@@ -11,7 +11,7 @@ class EloModifier:
         cls, 
         json_dict:dict,
     )->None:
-        with open(CARD_ELO_JSON_FILE, 'w') as writable_file:
+        with open(CARD_ELO_COMPILED_JSON_FILE, 'w') as writable_file:
             json.dump(
                 json_dict,
                 writable_file,
