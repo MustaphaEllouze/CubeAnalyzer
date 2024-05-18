@@ -31,5 +31,5 @@ class ElocardsGetter :
 
     )->EloCard:
         if not card_id in ElocardsGetter.CARDS_FROM_ID : 
-            raise ValueError(f'Card with ID {card_id} does not exist.')
+            raise ValueError(f'EloCard with ID {card_id} does not exist.')
         return ElocardsGetter.CARDS_FROM_ID.get(card_id, None)
