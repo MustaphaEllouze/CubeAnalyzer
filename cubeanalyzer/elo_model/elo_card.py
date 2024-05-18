@@ -16,6 +16,10 @@ class EloCard(BaseModel):
     def id(self, )->int:
         return self.card.id
 
+    @property
+    def elo(self, )->int:
+        return self.tracker.elo
+
     @classmethod
     def from_card(cls, card:Card)->Self:
         return EloCard(
