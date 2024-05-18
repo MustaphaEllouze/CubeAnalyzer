@@ -11,10 +11,12 @@ class EloModifier:
         cls, 
         json_dict:dict,
     )->None:
-        json.dump(
-            {"cards" : json_dict},
-            CARD_ELO_JSON_FILE
-        )
+        with open(CARD_ELO_JSON_FILE, 'w') as writable_file:
+            json.dump(
+                json_dict,
+                writable_file,
+                indent=4,
+            )
     
     @classmethod
     def update_json_elo_cards(
