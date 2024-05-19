@@ -13,7 +13,7 @@ class ScriptGatherer:
         possible_matches = tuple(
             c
             for c in CardsGetter.get_all_cards()
-            if string_to_match in c.name
+            if string_to_match.lower() in c.name.lower()
         )
         print(f'{len(possible_matches)} possible matches for "{string_to_match}"')
         for pm in possible_matches:
