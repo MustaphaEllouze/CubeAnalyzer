@@ -33,6 +33,11 @@ class ScriptsLauncher:
             action='store_true',
         )
 
+        parser.add_argument(
+            '-i', '--id',
+            help='Prints the possible ID for the given card name.'
+        )
+
         return parser.parse_args()
 
 ScriptsLauncher.parse_args()

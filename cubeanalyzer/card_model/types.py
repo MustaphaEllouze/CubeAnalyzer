@@ -7,15 +7,15 @@ class TypeData:
     symbol : str
 
 class CardType(Enum):
-    ARTIFACT     = TypeData(name='artifact',    symbol='a')
-    CREATURE     = TypeData(name='creature',    symbol='c')
-    LAND         = TypeData(name='land',        symbol='l')
-    INSTANT      = TypeData(name='instant',     symbol='i')
-    SORCERY      = TypeData(name='sorcery',     symbol='s')
-    ENCHANTEMENT = TypeData(name='enchantment', symbol='e')
-    BATTLE       = TypeData(name='battle',      symbol='b')
-    KINDRED      = TypeData(name='kindred',     symbol='k')
-    PLANESWALKER = TypeData(name='planeswalker',symbol='p')
+    ARTIFACT     = TypeData(name='artifact',    symbol='A')
+    CREATURE     = TypeData(name='creature',    symbol='C')
+    LAND         = TypeData(name='land',        symbol='L')
+    INSTANT      = TypeData(name='instant',     symbol='I')
+    SORCERY      = TypeData(name='sorcery',     symbol='S')
+    ENCHANTEMENT = TypeData(name='enchantment', symbol='E')
+    BATTLE       = TypeData(name='battle',      symbol='B')
+    KINDRED      = TypeData(name='kindred',     symbol='K')
+    PLANESWALKER = TypeData(name='planeswalker',symbol='P')
 
 SYMBOL_TO_TYPE = {c.value.symbol:c for c in CardType}
 NAME_TO_TYPE   = {c.value.name:c   for c in CardType}

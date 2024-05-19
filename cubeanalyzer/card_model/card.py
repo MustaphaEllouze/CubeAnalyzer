@@ -8,7 +8,7 @@ class Card(BaseModel):
     name : str
     color : Color
     mana_value : int
-    card_types : tuple[CardType]
+    card_types : tuple[CardType, ...]
     id : int
 
     def __str__(self, )->str:
@@ -36,3 +36,12 @@ class Card(BaseModel):
             card_types=tuple(get_type(t) for t in card_types),
             id=id,
         )
+
+    def to_json(self, )->dict[str,str|int]:
+        return {
+            "name" : self.name,
+            "color" : self.color.value.name,
+            "mana_value" : self.mana_value,
+            "card_types" : [t.value.name for t in self.card_types],
+            "id" : self.id,
+        }
