@@ -1,5 +1,5 @@
 {
-    "cards_metafile" : "./cards_meta_file.cube",
-    "decks_metafile" : "./decks_meta_file.cube",
+    "cards_metafile" : "./cards_metafile.cube",
+    "decks_metafile" : "./decks_metafile.cube",
     "games_metafile" : "./games_metafile.cube"
 }
