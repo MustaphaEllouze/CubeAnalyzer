@@ -14,6 +14,7 @@ class CardsParser :
             content = cards_metafile.readlines()
         
         for card in content :
+            print('Processing', card)
             stripped_card = card.strip()
             if stripped_card == '' : continue
             splitted_data = stripped_card.split(cls.DATA_SEPARATOR)
@@ -28,7 +29,7 @@ class CardsParser :
                 mana_value=int(manavalue.strip()),
                 card_types=[sub.strip() for sub in types.split(cls.TYPES_SEPARATOR)],
             )
-            CardsGetter.save_database()
+        CardsGetter.save_database()
         
         # Delete metafile
         with open(CARDS_METAFILE, 'w') as cards_metafile:

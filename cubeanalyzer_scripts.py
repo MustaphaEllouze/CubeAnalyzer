@@ -1,5 +1,7 @@
 import argparse
 
+from cubeanalyzer.card_data.cards_parser import CardsParser
+
 class ScriptsLauncher:
 
     @classmethod
@@ -39,5 +41,12 @@ class ScriptsLauncher:
         )
 
         return parser.parse_args()
+    
+    @classmethod
+    def run_scripts(cls, )->None:
+        arguments = ScriptsLauncher.parse_args()
 
-ScriptsLauncher.parse_args()
+        if arguments.cards : CardsParser.parse_metafile()
+
+if __name__ == '__main__':
+    ScriptsLauncher.run_scripts()
