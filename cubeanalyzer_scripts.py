@@ -1,6 +1,6 @@
 import argparse
 
-from cubeanalyzer.metafile_parsers.cards_parser import CardsParser
+from cubeanalyzer.scripts.script_gatherer import ScriptGatherer
 
 class ScriptsLauncher:
 
@@ -37,7 +37,7 @@ class ScriptsLauncher:
 
         parser.add_argument(
             '-i', '--id',
-            help='Prints the possible ID for the given card name.'
+            help='Prints the possible name and ID for the given card name.'
         )
 
         return parser.parse_args()
@@ -46,7 +46,11 @@ class ScriptsLauncher:
     def run_scripts(cls, )->None:
         arguments = ScriptsLauncher.parse_args()
 
-        if arguments.cards : CardsParser.parse_metafile()
+        if arguments.cards : ScriptGatherer.parse_card_metafile()
+        if arguments.id  : ScriptGatherer.print_possible_card_matches(
+            string_to_match=arguments.id
+        )
+        if arguments.compile : ScriptGatherer.compile_game_results()
 
 if __name__ == '__main__':
     ScriptsLauncher.run_scripts()

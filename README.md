@@ -14,7 +14,7 @@ python3 cubeanalyzer_scripts.py -c
 * Data that you gave will be consumed and interpreted, and the cards will be added to the database. **Note** : the metafile will be emptied.
 
 ## TODO
-* [ ] Add a meta-language to add cards, decks, games
+* [ ] Add a meta-language to add decks, games
 * [ ] Add relative parsers (scripts should consume the commands)
 * [ ] Add way to visualize the data simply
 * [ ] Add data-processing functions (ELO per type, per mv etc.)
