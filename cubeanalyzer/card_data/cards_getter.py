@@ -70,7 +70,7 @@ class CardsGetter :
             raise ValueError(f'Card ID {card.id} is already taken.')
         cls.CARDS += (card, )
         cls.CARDS_FROM_ID[card.id] = card
-        cls.CARDS_FROM_NAME[card.name.capitailze()] = card
+        cls.CARDS_FROM_NAME[card.name.capitalize()] = card
     
     @classmethod
     def save_database(cls, )->None:
