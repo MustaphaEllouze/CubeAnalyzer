@@ -54,7 +54,7 @@ class CardsGetter :
         mana_value:int,
         card_types:tuple[str],
     )->None:
-        max_id = max([c.id for c in cls.CARDS])
+        max_id = max([c.id for c in cls.CARDS]) if cls.CARDS else 0
         new_card = Card.from_data(
             name=name,
             color=color,

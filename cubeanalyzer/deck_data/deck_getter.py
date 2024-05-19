@@ -36,10 +36,10 @@ class DecksGetter :
         cards:tuple[Card],
     )->None:
         
-        max_id = max([d.id for d in cls.DECKS])
+        max_id = max([d.id for d in cls.DECKS]) if cls.DECKS else 0
         new_deck = Deck(
             cards=cards,
-            id=max_id,
+            id=max_id+1,
         )
         cls.add_deck_to_database(deck=new_deck)
     
