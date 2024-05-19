@@ -1,6 +1,6 @@
 import argparse
 
-from cubeanalyzer.card_data.cards_parser import CardsParser
+from cubeanalyzer.metafile_parsers.cards_parser import CardsParser
 
 class ScriptsLauncher:
 

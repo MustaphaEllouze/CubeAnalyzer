@@ -1,6 +1,6 @@
-from ..constants import CARDS_METAFILE, CARDS_DATA_JSON_FILE
-from ..elo_model.elo import EloTracker
+from ..constants import CARDS_METAFILE
 from ..card_data.cards_getter import CardsGetter
+from ..elo_data.elocads_getter import ElocardsGetter
 
 class CardsParser :
 
@@ -14,22 +14,32 @@ class CardsParser :
             content = cards_metafile.readlines()
         
         for card in content :
-            print('Processing', card)
             stripped_card = card.strip()
+            
             if stripped_card == '' : continue
             splitted_data = stripped_card.split(cls.DATA_SEPARATOR)
+            
             if not len(splitted_data) == 4 :
                 raise ValueError(f'Invalid line: {stripped_card}')
+            
             cardname, color, manavalue, types = splitted_data
+            
             if not manavalue.strip().isdigit() : 
                 raise ValueError(f'Invalid mana value: {manavalue}')
+            
             CardsGetter.add_card_to_database_from_data(
                 name=cardname.strip(),
                 color=color.strip(),
                 mana_value=int(manavalue.strip()),
                 card_types=[sub.strip() for sub in types.split(cls.TYPES_SEPARATOR)],
             )
+
+            ElocardsGetter.add_card_to_database_from_data(
+                card_id=CardsGetter.get_card_from_name(card_name=cardname.strip()).id,
+            )
+
         CardsGetter.save_database()
+        ElocardsGetter.save_database()
         
         # Delete metafile
         with open(CARDS_METAFILE, 'w') as cards_metafile:

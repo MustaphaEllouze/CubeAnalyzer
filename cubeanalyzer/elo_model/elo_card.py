@@ -51,3 +51,9 @@ class EloCard(BaseModel):
             winner=winner.tracker,
             loser=loser.tracker,
         )
+    
+    def to_json(self, )->dict[str, int|float]:
+        return {
+            "id" : self.id,
+            "elo" : self.elo,
+        }
