@@ -1,6 +1,6 @@
 from ..deck_data.deck_constructor import DeckConstructor
 from ..elo_model.elo_deck import EloDeck
-from ..elo_data.elocads_getter import ElocardsGetter
+from ..elo_data.elocards_getter import ElocardsGetter
 
 class ElodecksConstructor :
 

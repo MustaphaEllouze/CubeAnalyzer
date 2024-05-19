@@ -2,7 +2,7 @@ import json
 
 from ..constants import CARD_ELO_COMPILED_JSON_FILE
 from ..elo_model.elo_card import EloCard
-from ..elo_data.elocads_getter import ElocardsGetter
+from ..elo_data.elocards_getter import ElocardsGetter
 
 class EloModifier:
     
