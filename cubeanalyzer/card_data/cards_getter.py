@@ -16,7 +16,7 @@ class CardsGetter :
         __check_id_list.append(c.id)
 
     CARDS_FROM_NAME = {
-        c.name:c
+        c.name.capitalize():c
         for c in CARDS
     }
 
@@ -30,7 +30,7 @@ class CardsGetter :
         cls,
         card_name:str,
     )->Card:
-        return CardsGetter.CARDS_FROM_NAME.get(card_name, None)
+        return CardsGetter.CARDS_FROM_NAME.get(card_name.capitalize(), None)
     
     @classmethod
     def get_card_from_id(
@@ -67,10 +67,10 @@ class CardsGetter :
     @classmethod
     def add_card_to_database(cls, card:Card)->None:
         if card.id in cls.CARDS_FROM_ID : 
-            raise ValueError(f'ID {card.id} is already taken.')
+            raise ValueError(f'Card ID {card.id} is already taken.')
         cls.CARDS += (card, )
         cls.CARDS_FROM_ID[card.id] = card
-        cls.CARDS_FROM_NAME[card.name] = card
+        cls.CARDS_FROM_NAME[card.name.capitailze()] = card
     
     @classmethod
     def save_database(cls, )->None:

@@ -1,4 +1,5 @@
 from ..metafile_parsers.cards_parser import CardsParser
+from ..metafile_parsers.decks_parser import DecksParser
 from ..card_data.cards_getter import CardsGetter
 from ..game_data.games_runner import GamesRunner
 
@@ -7,6 +8,10 @@ class ScriptGatherer:
     @classmethod
     def parse_card_metafile(cls, )->None:
         CardsParser.parse_metafile()
+    
+    @classmethod
+    def parse_deck_metafile(cls, )->None:
+        DecksParser.parse_metafile()
     
     @classmethod
     def print_possible_card_matches(cls, string_to_match:str)->None:

@@ -10,3 +10,4 @@ with open('./config.json') as json_config:
     config_data = json.load(json_config)
 
 CARDS_METAFILE = config_data['cards_metafile']
+DECKS_METAFILE = config_data['decks_metafile']

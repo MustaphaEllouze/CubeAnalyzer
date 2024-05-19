@@ -47,7 +47,8 @@ class ScriptsLauncher:
         arguments = ScriptsLauncher.parse_args()
 
         if arguments.cards : ScriptGatherer.parse_card_metafile()
-        if arguments.id  : ScriptGatherer.print_possible_card_matches(
+        if arguments.decks : ScriptGatherer.parse_deck_metafile()
+        if arguments.id    : ScriptGatherer.print_possible_card_matches(
             string_to_match=arguments.id
         )
         if arguments.compile : ScriptGatherer.compile_game_results()

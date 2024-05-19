@@ -11,7 +11,7 @@ class ElocardsGetter :
     )
 
     CARDS_FROM_NAME = {
-        c.name:c
+        c.name.capitalize():c
         for c in CARDS
     }
 
@@ -25,7 +25,7 @@ class ElocardsGetter :
         cls,
         card_name:str,
     )->EloCard:
-        return ElocardsGetter.CARDS_FROM_NAME.get(card_name, None)
+        return ElocardsGetter.CARDS_FROM_NAME.get(card_name.capitalize(), None)
     
     @classmethod
     def get_card_from_id(
@@ -60,7 +60,7 @@ class ElocardsGetter :
             raise ValueError(f'ID {card.id} is already taken.')
         cls.CARDS += (card, )
         cls.CARDS_FROM_ID[card.id] = card
-        cls.CARDS_FROM_NAME[card.name] = card
+        cls.CARDS_FROM_NAME[card.name.capitalize()] = card
     
     @classmethod
     def save_database(cls, )->None:
