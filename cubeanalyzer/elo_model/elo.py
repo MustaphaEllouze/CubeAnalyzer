@@ -31,6 +31,12 @@ class EloTracker(BaseModel):
             or (not ascending and target_elo < self.elo) :
             self.elo += (target_elo-self.elo)*SCALING_COEF
     
+    def set_elo(
+            self,
+            target:float,
+    )->None:
+        self.elo = target
+    
     @classmethod
     def compute_and_update(
         cls, 

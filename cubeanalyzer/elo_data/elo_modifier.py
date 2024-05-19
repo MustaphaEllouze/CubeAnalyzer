@@ -1,8 +1,8 @@
 import json
 
 from ..constants import CARD_ELO_COMPILED_JSON_FILE
-from ..elo_model.elo_card import EloCard
 from ..elo_data.elocards_getter import ElocardsGetter
+from ..elo_model.elo import STARTING_ELO, MAX_OFFSET
 
 class EloModifier:
     
@@ -33,3 +33,32 @@ class EloModifier:
                 ]
             }
         )
+    
+    @classmethod
+    def set_elo_distribution(
+        cls,
+        target_mean:float=STARTING_ELO,
+        target_standard_deviation:float=0.5*MAX_OFFSET,
+    )->None:
+        
+        all_elo_cards = ElocardsGetter.get_all_cards()
+
+        # Curret mean/standard deviation
+        current_mean = sum([c.elo for c in all_elo_cards])/len(all_elo_cards)
+        current_standard_deviation = (sum(
+            [
+                (c.elo-current_mean)**2
+                for c in all_elo_cards
+            ]
+        )/len(all_elo_cards))**(0.5)
+
+        if abs(current_standard_deviation)<1e-6 : 
+            current_standard_deviation = target_standard_deviation
+
+        # Scaling
+        for c in all_elo_cards:
+            c.set_elo(
+                target=target_mean+(c.elo-current_mean)
+                        *target_standard_deviation
+                        /current_standard_deviation
+            )

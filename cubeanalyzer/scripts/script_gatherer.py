@@ -2,6 +2,7 @@ from ..metafile_parsers.cards_parser import CardsParser
 from ..metafile_parsers.decks_parser import DecksParser
 from ..card_data.cards_getter import CardsGetter
 from ..game_data.games_runner import GamesRunner
+from ..elo_data.elo_modifier import EloModifier
 
 class ScriptGatherer:
 
@@ -27,3 +28,5 @@ class ScriptGatherer:
     @classmethod
     def compile_game_results(cls, )->None:
         GamesRunner.run_all_games()
+        EloModifier.set_elo_distribution()
+        EloModifier.update_json_elo_cards()

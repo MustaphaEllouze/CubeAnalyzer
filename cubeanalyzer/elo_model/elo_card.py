@@ -17,7 +17,7 @@ class EloCard(BaseModel):
         return self.card.id
 
     @property
-    def elo(self, )->int:
+    def elo(self, )->float:
         return self.tracker.elo
 
     @classmethod
@@ -57,3 +57,6 @@ class EloCard(BaseModel):
             "id" : self.id,
             "elo" : self.elo,
         }
+    
+    def set_elo(self, target:float)->None:
+        self.tracker.set_elo(target=target)
