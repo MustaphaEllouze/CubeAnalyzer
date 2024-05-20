@@ -50,7 +50,7 @@ class CardsGetter :
     def add_card_to_database_from_data(
         cls,
         name:str,
-        color:str,
+        color:list[str],
         mana_value:int,
         card_types:tuple[str],
     )->None:

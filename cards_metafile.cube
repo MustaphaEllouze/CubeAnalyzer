@@ -1,0 +1,540 @@
+Dauntless Bodyguard / W / 1 / Creature   Human Knight 
+Giver of Runes / W / 1 / Creature   Kor Cleric 
+Thraben Inspector / W / 1 / Creature   Human Soldier 
+Toolcraft Exemplar / W / 1 / Creature   Dwarf Artificer 
+Usher of the Fallen / W / 1 / Creature   Spirit Warrior 
+Accorder Paladin / W / 2 / Creature   Human Knight 
+Adanto Vanguard / W / 2 / Creature   Vampire Soldier 
+Adorned Pouncer / W / 2 / Creature   Cat  
+Cathar Commando / W / 2 / Creature   Human Soldier 
+Daxos, Blessed by the Sun / W / 2 / Legendary Enchantment Creature Demigod  
+Ethersworn Canonist / W / 2 / Artifact Creature  Human Cleric 
+Lion Sash / W / 2 / Artifact Creature  Equipment Cat 
+Selfless Spirit / W / 2 / Creature   Spirit Cleric 
+Sungold Sentinel / W / 2 / Creature   Human Soldier 
+Suture Priest / W / 2 / Creature   Phyrexian Cleric 
+Thalia, Guardian of Thraben / W / 2 / Legendary Creature  Human Soldier 
+Adeline, Resplendent Cathar / W / 3 / Legendary Creature  Human Knight 
+Aven Interrupter / W / 3 / Creature   Bird Rogue 
+Blade Splicer / W / 3 / Creature   Phyrexian Human Artificer
+Digsite Engineer / W / 3 / Creature   Dwarf Artificer 
+Eidolon of Countless Battles / W / 3 / Enchantment Creature  Spirit  
+Elite Spellbinder / W / 3 / Creature   Human Cleric 
+Master Trinketeer / W / 3 / Creature   Dwarf Artificer 
+Metropolis Reformer / W / 3 / Creature   Angel Cleric 
+Monastery Mentor / W / 3 / Creature   Human Monk 
+Porcelain Legionnaire / W / 3 / Artifact Creature  Phyrexian Soldier 
+Skyclave Apparition / W / 3 / Creature   Kor Spirit 
+Sunscourge Champion / W / 3 / Creature   Human Wizard 
+Thalia, Heretic Cathar / W / 3 / Legendary Creature  Human Soldier 
+Bennie Bracks, Zoologist / W / 4 / Legendary Creature  Elf Druid 
+Emeria Angel / W / 4 / Creature   Angel  
+Mangara, the Diplomat / W / 4 / Legendary Creature  Human Cleric 
+Mondrak, Glory Dominus / W / 4 / Legendary Creature  Phyrexian Horror 
+Serra Paragon / W / 4 / Creature   Angel  
+Angel of Invention / W / 5 / Creature   Angel  
+Archangel of Thune / W / 5 / Creature   Angel  
+Bronze Guardian / W / 5 / Artifact Creature  Golem  
+Platoon Dispenser / W / 5 / Artifact Creature  Construct  
+Scion of Vitu-Ghazi / W / 5 / Creature   Elemental  
+Timeless Dragon / W / 5 / Creature   Dragon  
+Wingmate Roc / W / 5 / Creature   Bird  
+Archangel Elspeth / W / 4 / Legendary Planeswalker  Elspeth  
+Gods Willing / W / 1 / Instant     
+Path to Exile / W / 1 / Instant     
+Secure the Wastes / W / 1 / Instant     
+Blessed Alliance / W / 2 / Instant     
+Fateful Absence / W / 2 / Instant     
+Feat of Resistance / W / 2 / Instant     
+Get Lost / W / 2 / Instant     
+Rootborn Defenses / W / 3 / Instant     
+Stroke of Midnight / W / 3 / Instant     
+Unbreakable Formation / W / 3 / Instant     
+Lingering Souls / W / 3 / Sorcery     
+Battle Screech / W / 4 / Sorcery     
+Doomskar / W / 5 / Sorcery     
+Sunfall / W / 5 / Sorcery     
+Barbed Spike / W / 2 / Artifact   Equipment  
+Staff of the Storyteller / W / 2 / Artifact     
+Aerial Surveyor / W / 3 / Artifact   Vehicle  
+Legion's Landing / W / 1 / Legendary Enchantment    
+Sentinel's Eyes / W / 1 / Enchantment   Aura  
+Blind Obedience / W / 2 / Enchantment     
+Dawn of Hope / W / 2 / Enchantment     
+Skrelv's Hive / W / 2 / Enchantment     
+The Birth of Meletis / W / 2 / Enchantment   Saga  
+History of Benalia / W / 3 / Enchantment   Saga  
+In the Trenches / W / 3 / Enchantment     
+Three Blind Mice / W / 3 / Enchantment   Saga  
+Angelic Destiny / W / 4 / Enchantment   Aura  
+Anointed Procession / W / 4 / Enchantment     
+Cast Out / W / 4 / Enchantment     
+Faith's Fetters / W / 4 / Enchantment   Aura  
+Felidar Retreat / W / 4 / Enchantment     
+Leyline Binding / W / 6 / Enchantment     
+Invasion of Gobakhan / W / 2 / Battle   Siege  
+Pteramander / U / 1 / Creature   Salamander Drake 
+Siren Stormtamer / U / 1 / Creature   Siren Pirate Wizard
+Spectral Sailor / U / 1 / Creature   Spirit Pirate 
+Brineborn Cutthroat / U / 2 / Creature   Merfolk Pirate 
+Faerie Mastermind / U / 2 / Creature   Faerie Rogue 
+Ghostly Pilferer / U / 2 / Creature   Spirit Rogue 
+Merfolk Trickster / U / 2 / Creature   Merfolk Wizard 
+Moon-Circuit Hacker / U / 2 / Enchantment Creature  Human Ninja 
+Surge Engine / U / 2 / Artifact Creature  Construct  
+Suspicious Stowaway / U / 2 / Creature   Human Rogue Werewolf
+Champion of Wits / U / 3 / Creature   Naga Wizard 
+Chrome Host Seedshark / U / 3 / Creature   Phyrexian Shark 
+Emry, Lurker of the Loch / U / 3 / Legendary Creature  Merfolk Wizard 
+Forensic Gadgeteer / U / 3 / Creature   Vedalken Artificer Detective
+Frost Trickster / U / 3 / Creature   Bird Wizard 
+Prosperous Thief / U / 3 / Creature   Human Ninja 
+Sai, Master Thopterist / U / 3 / Legendary Creature  Human Artificer 
+Sea-Dasher Octopus / U / 3 / Creature   Octopus  
+Skystrike Officer / U / 3 / Creature   Human Soldier 
+Unctus, Grand Metatect / U / 3 / Legendary Artifact Creature Phyrexian Vedalken 
+Unctus's Retrofitter / U / 3 / Creature   Phyrexian Artificer 
+Vendilion Clique / U / 3 / Legendary Creature  Faerie Wizard 
+Katsumasa, the Animator / U / 4 / Legendary Creature  Moonfolk Artificer 
+Niblis of Frost / U / 4 / Creature   Spirit  
+Ninja of the Deep Hours / U / 4 / Creature   Human Ninja 
+Phyrexian Metamorph / U / 4 / Artifact Creature  Phyrexian Shapeshifter 
+Whirler Rogue / U / 4 / Creature   Human Rogue Artificer
+Geology Enthusiast / U / 5 / Creature   Human Artificer 
+Guardian of Tazeem / U / 5 / Creature   Sphinx  
+Mulldrifter / U / 5 / Creature   Elemental  
+Research Thief / U / 5 / Artifact Creature  Moonfolk Wizard 
+Shipwreck Dowser / U / 5 / Creature   Merfolk Wizard 
+Stormwing Entity / U / 5 / Creature   Elemental  
+Thryx, the Sudden Storm / U / 5 / Legendary Creature  Elemental Giant 
+Kappa Cannoneer / U / 6 / Artifact Creature  Turtle Warrior 
+Roil Elemental / U / 6 / Creature   Elemental  
+Torrential Gearhulk / U / 6 / Artifact Creature  Construct  
+Arcane Proxy / U / 7 / Artifact Creature  Wizard  
+Thought Monitor / U / 7 / Artifact Creature  Construct  
+Tolarian Terror / U / 7 / Creature   Serpent  
+Jace, Architect of Thought / U / 4 / Legendary Planeswalker  Jace  
+Brainstorm / U / 1 / Instant     
+Condescend / U / 1 / Instant     
+Consider / U / 1 / Instant     
+Fading Hope / U / 1 / Instant     
+Slip Out the Back / U / 1 / Instant     
+Spell Pierce / U / 1 / Instant     
+Thought Scour / U / 1 / Instant     
+Counterspell / U / 2 / Instant     
+Into the Roil / U / 2 / Instant     
+Lose Focus / U / 2 / Instant     
+Mana Leak / U / 2 / Instant     
+Miscalculation / U / 2 / Instant     
+Negate / U / 2 / Instant     
+Think Twice / U / 2 / Instant     
+Winds of Rebuke / U / 2 / Instant     
+Exclude / U / 3 / Instant     
+Saw It Coming / U / 3 / Instant     
+Supreme Will / U / 3 / Instant     
+Behold the Multiverse / U / 4 / Instant     
+Fact or Fiction / U / 4 / Instant     
+Memory Deluge / U / 4 / Instant     
+Dig Through Time / U / 8 / Instant     
+Hard Evidence / U / 1 / Sorcery     
+Chart a Course / U / 2 / Sorcery     
+Deep Analysis / U / 4 / Sorcery     
+Reverse Engineer / U / 5 / Sorcery     
+Treasure Cruise / U / 8 / Sorcery     
+Aether Spellbomb / U / 1 / Artifact     
+Witching Well / U / 1 / Artifact     
+Mnemonic Sphere / U / 2 / Artifact     
+Subterranean Schooner / U / 2 / Artifact   Vehicle  
+Witness Protection / U / 1 / Enchantment   Aura  
+Military Intelligence / U / 2 / Enchantment     
+Reconnaissance Mission / U / 4 / Enchantment     
+Bloodsoaked Champion / B / 1 / Creature   Human Warrior 
+Carrion Feeder / B / 1 / Creature   Zombie  
+Dread Wanderer / B / 1 / Creature   Zombie Jackal 
+Gutterbones / B / 1 / Creature   Skeleton Warrior 
+Knight of the Ebon Legion / B / 1 / Creature   Vampire Knight 
+Stitcher's Supplier / B / 1 / Creature   Zombie  
+Blood Artist / B / 2 / Creature   Vampire  
+Bloodghast / B / 2 / Creature   Vampire Spirit 
+Homicide Investigator / B / 2 / Creature   Human Detective 
+Mire Triton / B / 2 / Creature   Zombie Merfolk 
+Order of Midnight / B / 2 / Creature   Human Knight 
+Skyclave Shade / B / 2 / Creature   Shade  
+Undead Butler / B / 2 / Creature   Zombie  
+Vraan, Executioner Thane / B / 2 / Legendary Creature  Phyrexian Vampire 
+Zulaport Cutthroat / B / 2 / Creature   Human Rogue Ally
+Biting-Palm Ninja / B / 3 / Creature   Human Ninja 
+Braids, Arisen Nightmare / B / 3 / Legendary Creature  Nightmare  
+Drana, Liberator of Malakir / B / 3 / Legendary Creature  Vampire Ally 
+Gix, Yawgmoth Praetor / B / 3 / Legendary Creature  Phyrexian Praetor 
+Gumdrop Poisoner / B / 3 / Creature   Human Warlock 
+Midnight Reaper / B / 3 / Creature   Zombie Knight 
+Murderous Rider / B / 3 / Creature   Zombie Knight 
+Nashi, Moon Sage's Scion / B / 3 / Legendary Creature  Rat Ninja 
+Ophiomancer / B / 3 / Creature   Human Shaman 
+Rotting Regisaur / B / 3 / Creature   Zombie Dinosaur 
+Sedgemoor Witch / B / 3 / Creature   Human Warlock 
+Vampire Nighthawk / B / 3 / Creature   Vampire Shaman 
+Veinwitch Coven / B / 3 / Creature   Vampire Warlock 
+Vito, Thorn of the Dusk Rose / B / 3 / Legendary Creature  Vampire Cleric 
+Woe Strider / B / 3 / Creature   Horror  
+Bushmeat Poacher / B / 4 / Creature   Human Soldier 
+Gonti, Lord of Luxury / B / 4 / Legendary Creature  Aetherborn Rogue 
+Grim Hireling / B / 4 / Creature   Tiefling Rogue 
+Kalitas, Traitor of Ghet / B / 4 / Legendary Creature  Vampire Warrior 
+Rankle, Master of Pranks / B / 4 / Legendary Creature  Faerie Rogue 
+Ravenous Chupacabra / B / 4 / Creature   Beast Horror 
+Shriekmaw / B / 5 / Creature   Elemental  
+Sidisi, Undead Vizier / B / 5 / Legendary Creature  Zombie Naga 
+Syr Konrad, the Grim / B / 5 / Legendary Creature  Human Knight 
+Noxious Gearhulk / B / 6 / Artifact Creature  Construct  
+Rodolf Duskbringer / B / 6 / Legendary Creature  Vampire Angel 
+Tasigur, the Golden Fang / B / 6 / Legendary Creature  Human Shaman 
+Gurmag Angler / B / 7 / Creature   Zombie Fish 
+Phyrexian Fleshgorger / B / 7 / Artifact Creature  Phyrexian Wurm 
+Liliana, Dreadhorde General / B / 6 / Legendary Planeswalker  Liliana  
+Cling to Dust / B / 1 / Instant     
+Malakir Rebirth / B / 1 / Instant     
+Village Rites / B / 1 / Instant     
+Go for the Throat / B / 2 / Instant     
+Infernal Grasp / B / 2 / Instant     
+Malicious Affliction / B / 2 / Instant     
+Plumb the Forbidden / B / 2 / Instant     
+Reckoner's Bargain / B / 2 / Instant     
+Sheoldred's Edict / B / 2 / Instant     
+Dismember / B / 3 / Instant     
+Hero's Downfall / B / 3 / Instant     
+Unseal the Necropolis / B / 3 / Instant     
+Lethal Scheme / B / 4 / Instant     
+Snuff Out / B / 4 / Instant     
+Murderous Cut / B / 5 / Instant     
+Bone Shards / B / 1 / Sorcery     
+Thoughtseize / B / 1 / Sorcery     
+Agonizing Remorse / B / 2 / Sorcery     
+Collective Brutality / B / 2 / Sorcery     
+Agadeem's Awakening / B / 3 / Sorcery     
+Flay Essence / B / 3 / Sorcery     
+Read the Bones / B / 3 / Sorcery     
+Toxic Deluge / B / 3 / Sorcery     
+Damnation / B / 4 / Sorcery     
+Languish / B / 4 / Sorcery     
+Whip of Erebos / B / 4 / Legendary Enchantment Artifact   
+Vampiric Rites / B / 1 / Enchantment     
+Arguel's Blood Fast / B / 2 / Legendary Enchantment    
+Bitterblossom / B / 2 / Tribal Enchantment  Faerie  
+Bastion of Remembrance / B / 3 / Enchantment     
+Bomat Courier / R / 1 / Artifact Creature  Construct  
+Dragon's Rage Channeler / R / 1 / Creature   Human Shaman 
+Goblin Bushwhacker / R / 1 / Creature   Goblin Warrior 
+Grim Lavamancer / R / 1 / Creature   Human Wizard 
+Monastery Swiftspear / R / 1 / Creature   Human Monk 
+Rabbit Battery / R / 1 / Artifact Creature  Equipment Rabbit 
+Reinforced Ronin / R / 1 / Artifact Creature  Human Samurai 
+Soul-Scar Mage / R / 1 / Creature   Human Wizard 
+Abbot of Keral Keep / R / 2 / Creature   Human Monk 
+Akoum Stonewaker / R / 2 / Creature   Human Shaman 
+Earthshaker Khenra / R / 2 / Creature   Jackal Warrior 
+Flametongue Yearling / R / 2 / Creature   Kavu  
+Kari Zev, Skyship Raider / R / 2 / Legendary Creature  Human Pirate 
+Khenra Spellspear / R / 2 / Creature   Jackal Warrior 
+Mogg War Marshal / R / 2 / Creature   Goblin Warrior 
+Scrapwork Mutt / R / 2 / Artifact Creature  Dog  
+Young Pyromancer / R / 2 / Creature   Human Shaman 
+Ahn-Crop Crasher / R / 3 / Creature   Minotaur Warrior 
+Alpine Guide / R / 3 / Snow Creature  Human Scout 
+Anax, Hardened in the Forge / R / 3 / Legendary Enchantment Creature Demigod  
+Bonecrusher Giant / R / 3 / Creature   Giant  
+Breeches, Eager Pillager / R / 3 / Legendary Creature  Goblin Pirate 
+Breya's Apprentice / R / 3 / Artifact Creature  Human Artificer 
+Captain Lannery Storm / R / 3 / Legendary Creature  Human Pirate 
+Flamewake Phoenix / R / 3 / Creature   Phoenix  
+Gut, True Soul Zealot / R / 3 / Legendary Creature  Goblin Shaman 
+Laelia, the Blade Reforged / R / 3 / Legendary Creature  Spirit Warrior 
+Legion Warboss / R / 3 / Creature   Goblin Soldier 
+Pia Nalaar / R / 3 / Legendary Creature  Human Artificer 
+Reckless Bushwhacker / R / 3 / Creature   Goblin Warrior Ally
+Thopter Engineer / R / 3 / Creature   Human Artificer 
+Akoum Firebird / R / 4 / Creature   Phoenix  
+Embodiment of Fury / R / 4 / Creature   Elemental  
+Flametongue Kavu / R / 4 / Creature   Kavu  
+Goblin Heelcutter / R / 4 / Creature   Goblin Berserker 
+Pia and Kiran Nalaar / R / 4 / Legendary Creature  Human Artificer 
+Twinshot Sniper / R / 4 / Artifact Creature  Goblin Archer 
+Glorybringer / R / 5 / Creature   Dragon  
+Nesting Dragon / R / 5 / Creature   Dragon  
+Stormbreath Dragon / R / 5 / Creature   Dragon  
+Inferno Titan / R / 6 / Creature   Giant  
+Moraug, Fury of Akoum / R / 6 / Legendary Creature  Minotaur Warrior 
+Etali, Primal Conqueror / R / 7 / Legendary Creature  Elder Dinosaur 
+Bedlam Reveler / R / 8 / Creature   Devil Horror 
+Chandra, Torch of Defiance / R / 4 / Legendary Planeswalker  Chandra  
+Brute Force / R / 1 / Instant     
+Built to Smash / R / 1 / Instant     
+Coordinated Assault / R / 1 / Instant     
+Galvanic Blast / R / 1 / Instant     
+Lightning Bolt / R / 1 / Instant     
+Abrade / R / 2 / Instant     
+Temur Battle Rage / R / 2 / Instant     
+Thrill of Possibility / R / 2 / Instant     
+Kazuul's Fury / R / 3 / Instant     
+You See a Pair of Goblins / R / 3 / Instant     
+Big Score / R / 4 / Instant     
+Stoke the Flames / R / 4 / Instant     
+Act of Aggression / R / 5 / Instant     
+Faithless Looting / R / 1 / Sorcery     
+Cathartic Reunion / R / 2 / Sorcery     
+Dragon Fodder / R / 2 / Sorcery     
+Obliterating Bolt / R / 2 / Sorcery     
+Collective Defiance / R / 3 / Sorcery     
+Light Up the Stage / R / 3 / Sorcery     
+Burn Down the House / R / 5 / Sorcery     
+Experimental Synthesizer / R / 1 / Artifact     
+Pyrite Spellbomb / R / 1 / Artifact     
+Legion Extruder / R / 2 / Artifact     
+Hammer of Purphoros / R / 3 / Legendary Enchantment Artifact   
+Magmatic Galleon / R / 5 / Artifact   Vehicle  
+Makeshift Munitions / R / 2 / Enchantment     
+Valakut Exploration / R / 3 / Enchantment     
+Outpost Siege / R / 4 / Enchantment     
+Visions of Phyrexia / R / 4 / Enchantment     
+Invasion of Mercadia / R / 2 / Battle   Siege  
+Birds of Paradise / G / 1 / Creature   Bird  
+Elvish Mystic / G / 1 / Creature   Elf Druid 
+Ignoble Hierarch / G / 1 / Creature   Goblin Shaman 
+Llanowar Elves / G / 1 / Creature   Elf Druid 
+Bristly Bill, Spine Sower / G / 2 / Legendary Creature  Plant Druid 
+Cankerbloom / G / 2 / Creature   Phyrexian Fungus 
+Duskwatch Recruiter / G / 2 / Creature   Human Warrior Werewolf
+Fauna Shaman / G / 2 / Creature   Elf Shaman 
+Gala Greeters / G / 2 / Creature   Elf Druid 
+Lotus Cobra / G / 2 / Creature   Snake  
+Resilient Khenra / G / 2 / Creature   Jackal Wizard 
+Satyr Wayfinder / G / 2 / Creature   Satyr  
+Scavenging Ooze / G / 2 / Creature   Ooze  
+Wildborn Preserver / G / 2 / Creature   Elf Archer 
+Boon Satyr / G / 3 / Enchantment Creature  Satyr  
+Briarbridge Tracker / G / 3 / Creature   Human Scout 
+Courser of Kruphix / G / 3 / Enchantment Creature  Centaur  
+Eternal Witness / G / 3 / Creature   Human Shaman 
+Glademuse / G / 3 / Creature   Beast  
+Outcaster Trailblazer / G / 3 / Creature   Human Druid 
+Sandstorm Salvager / G / 3 / Creature   Human Artificer 
+Selesnya Eulogist / G / 3 / Creature   Centaur Druid 
+Simian Simulacrum / G / 3 / Artifact Creature  Ape  
+Tireless Tracker / G / 3 / Creature   Human Scout 
+Wildwood Mentor / G / 3 / Creature   Treefolk  
+Bramble Sovereign / G / 4 / Creature   Dryad  
+Gemrazer / G / 4 / Creature   Beast  
+Goreclaw, Terror of Qal Sisma / G / 4 / Legendary Creature  Bear  
+Nightpack Ambusher / G / 4 / Creature   Wolf  
+Polukranos, World Eater / G / 4 / Legendary Creature  Hydra  
+Surrak, the Hunt Caller / G / 4 / Legendary Creature  Human Warrior 
+Thrun, the Last Troll / G / 4 / Legendary Creature  Troll Shaman 
+Timeless Witness / G / 4 / Creature   Human Shaman 
+Yeva, Nature's Herald / G / 4 / Legendary Creature  Elf Shaman 
+Ashaya, Soul of the Wild / G / 5 / Legendary Creature  Elemental  
+Biogenic Ooze / G / 5 / Creature   Ooze  
+Greensleeves, Maro-Sorcerer / G / 5 / Legendary Creature  Elemental  
+Railway Brawler / G / 5 / Creature   Rhino Warrior 
+Rootwire Amalgam / G / 5 / Artifact Creature  Golem  
+Thragtusk / G / 5 / Creature   Beast  
+Vorinclex / G / 5 / Legendary Creature  Phyrexian Praetor 
+Workshop Warchief / G / 5 / Creature   Rhino Warrior 
+Gruff Triplets / G / 6 / Creature   Satyr Warrior 
+Kogla, the Titan Ape / G / 6 / Legendary Creature  Ape  
+Primeval Titan / G / 6 / Creature   Giant  
+Rampaging Baloths / G / 6 / Creature   Beast  
+Pelakka Wurm / G / 7 / Creature   Wurm  
+Woodfall Primus / G / 8 / Creature   Treefolk Shaman 
+Vivien, Champion of the Wilds / G / 3 / Legendary Planeswalker  Vivien  
+Mutagenic Growth / G / 1 / Instant     
+Smuggler's Surprise / G / 1 / Instant     
+Snakeskin Veil / G / 1 / Instant     
+Vines of Vastwood / G / 1 / Instant     
+Inscription of Abundance / G / 2 / Instant     
+Beast Within / G / 3 / Instant     
+Farseek / G / 2 / Sorcery     
+Nature's Lore / G / 2 / Sorcery     
+Rampant Growth / G / 2 / Sorcery     
+Rhonas's Last Stand / G / 2 / Sorcery     
+Winding Way / G / 2 / Sorcery     
+Call of the Herd / G / 3 / Sorcery     
+Cultivate / G / 3 / Sorcery     
+Skyshroud Claim / G / 4 / Sorcery     
+Mouth // Feed / G / 7 / Sorcery     
+Lifecrafter's Bestiary / G / 3 / Artifact     
+Conduit of Worlds / G / 4 / Artifact     
+Esika's Chariot / G / 4 / Legendary Artifact  Vehicle  
+Rancor / G / 1 / Enchantment   Aura  
+Khalni Heart Expedition / G / 2 / Enchantment     
+Cartouche of Strength / G / 3 / Enchantment   Aura Cartouche 
+Garruk's Uprising / G / 3 / Enchantment     
+Killer Service / G / 3 / Enchantment     
+Ulvenwald Mysteries / G / 3 / Enchantment     
+Bear Umbra / G / 4 / Enchantment   Aura  
+Wilderness Reclamation / G / 4 / Enchantment     
+Kotori, Pilot Prodigy / UW / 3 / Legendary Creature  Moonfolk Pilot 
+Sphinx's Revelation / WU / 3 / Instant     
+Supreme Verdict / WU / 4 / Sorcery     
+Urza, Prince of Kroog / UW / 4 / Legendary Creature  Human Artificer 
+Teferi, Hero of Dominaria / WU / 5 / Legendary Planeswalker  Teferi  
+Ethersworn Sphinx / UW / 9 / Artifact Creature  Sphinx  
+Krydle of Baldur's Gate / UB / 2 / Legendary Creature  Human Elf Rogue
+Lazav, Wearer of Faces / BU / 2 / Legendary Creature  Shapeshifter Detective 
+Halo Forager / BU / 3 / Creature   Faerie Rogue 
+Invasion of Amonkhet / BU / 3 / Battle   Siege  
+Kaito Shizuki / UB / 3 / Legendary Planeswalker  Kaito  
+Gyruda, Doom of Depths / BU / 6 / Legendary Creature  Demon Kraken 
+Kroxa, Titan of Death's Hunger / BR / 2 / Legendary Creature  Elder Giant 
+Tymaret, the Murder King / BR / 2 / Legendary Creature  Zombie Warrior 
+Florian, Voldaren Scion / BR / 3 / Legendary Creature  Vampire Noble 
+Kolaghan's Command / BR / 3 / Instant     
+Ob Nixilis, the Adversary / BR / 3 / Legendary Planeswalker  Nixilis  
+Stormclaw Rager / BR / 3 / Creature   Ogre Warrior 
+Ruby, Daring Tracker / GR / 2 / Legendary Creature  Human Scout 
+Cactusfolk Sureshot / GR / 4 / Creature   Plant Mercenary 
+Mina and Denn, Wildborn / RG / 4 / Legendary Creature  Elf Ally 
+Xenagos, the Reveler / RG / 4 / Legendary Planeswalker  Xenagos  
+Escape to the Wilds / RG / 5 / Sorcery     
+Dragonlord Atarka / RG / 7 / Legendary Creature  Elder Dragon 
+Fleecemane Lion / WG / 2 / Creature   Cat  
+Voice of Resurgence / GW / 2 / Creature   Elemental  
+March of the Multitudes / GW / 3 / Instant     
+Torens, Fist of the Angels / GW / 3 / Legendary Creature  Human Cleric 
+Ajani, the Greathearted / GW / 4 / Legendary Planeswalker  Ajani  
+Sigarda, Font of Blessings / GW / 4 / Legendary Creature  Angel  
+Ayli, Eternal Pilgrim / BW / 2 / Legendary Creature  Kor Cleric 
+Tidehollow Sculler / WB / 2 / Artifact Creature  Zombie  
+Anguished Unmaking / WB / 3 / Instant     
+Kaya, Orzhov Usurper / WB / 3 / Legendary Planeswalker  Kaya  
+Kunoros, Hound of Athreos / BW / 3 / Legendary Creature  Dog  
+Markov Purifier / BW / 3 / Creature   Vampire Cleric 
+Blistercoil Weird / UR / 1 / Creature   Weird  
+Expressive Iteration / UR / 2 / Sorcery     
+Malcolm, the Eyes / RU / 2 / Legendary Creature  Siren Pirate 
+Third Path Iconoclast / UR / 2 / Creature   Human Monk 
+Saheeli, Filigree Master / UR / 4 / Legendary Planeswalker  Saheeli  
+Maverick Thopterist / UR / 5 / Creature   Human Artificer 
+Ravenous Squirrel / BG / 1 / Creature   Squirrel  
+Grim Flayer / BG / 2 / Creature   Human Warrior 
+Jarad, Golgari Lich Lord / BG / 4 / Legendary Creature  Zombie Elf 
+Skyfisher Spider / BG / 4 / Creature   Spider  
+Vraska, Golgari Queen / BG / 4 / Legendary Planeswalker  Vraska  
+The Gitrog, Ravenous Ride / BG / 5 / Legendary Creature  Frog Horror Mount
+Honored Crop-Captain / RW / 2 / Creature   Human Warrior 
+Anim Pakal, Thousandth Moon / RW / 3 / Legendary Creature  Human Soldier 
+Arcbound Shikari / RW / 3 / Artifact Creature  Cat Soldier 
+Ajani Vengeant / WR / 4 / Legendary Planeswalker  Ajani  
+Caparocti Sunborn / RW / 4 / Legendary Creature  Human Soldier 
+Heroic Reinforcements / WR / 4 / Sorcery     
+Gretchen Titchwillow / UG / 2 / Legendary Creature  Halfling Druid 
+Hydroid Krasis / GU / 2 / Creature   Jellyfish Hydra Beast
+Kiora, the Crashing Wave / UG / 4 / Legendary Planeswalker  Kiora  
+Rashmi, Eternities Crafter / UG / 4 / Legendary Creature  Elf Druid 
+Prophet of Kruphix / UG / 5 / Creature   Human Wizard 
+Aesi, Tyrant of Gyre Strait / UG / 6 / Legendary Creature  Serpent  
+Hangarback Walker / C / 0 / Artifact Creature  Construct  
+Arcbound Ravager / C / 2 / Artifact Creature  Beast  
+Patchwork Automaton / C / 2 / Artifact Creature  Construct  
+Steel Overseer / C / 2 / Artifact Creature  Construct  
+Burnished Hart / C / 3 / Artifact Creature  Elk  
+Foundry Inspector / C / 3 / Artifact Creature  Construct  
+Liberator, Urza's Battlethopter / C / 3 / Legendary Artifact Creature Thopter  
+Lodestone Golem / C / 4 / Artifact Creature  Golem  
+Solemn Simulacrum / C / 4 / Artifact Creature  Golem  
+Duplicant / C / 6 / Artifact Creature  Shapeshifter  
+Wurmcoil Engine / C / 6 / Artifact Creature  Phyrexian Wurm 
+Myr Battlesphere / C / 7 / Artifact Creature  Myr Construct 
+Cityscape Leveler / C / 8 / Artifact Creature  Construct  
+Karn, Scion of Urza / C / 4 / Legendary Planeswalker  Karn  
+Ugin, the Ineffable / C / 6 / Legendary Planeswalker  Ugin  
+Currency Converter / C / 1 / Artifact     
+Elixir of Immortality / C / 1 / Artifact     
+Retrofitter Foundry / C / 1 / Artifact     
+Shadowspear / C / 1 / Legendary Artifact  Equipment  
+Key to the City / C / 2 / Artifact     
+Mazemind Tome / C / 2 / Artifact     
+Mind Stone / C / 2 / Artifact     
+Reckoner Bankbuster / C / 2 / Artifact   Vehicle  
+Smuggler's Copter / C / 2 / Artifact   Vehicle  
+Unlicensed Hearse / C / 2 / Artifact   Vehicle  
+Cultivator's Caravan / C / 3 / Artifact   Vehicle  
+Hedron Archive / C / 4 / Artifact     
+Surgehacker Mech / C / 4 / Artifact   Vehicle  
+Gilded Lotus / C / 5 / Artifact     
+Skysovereign, Consul Flagship / C / 5 / Legendary Artifact  Vehicle  
+Azorius Signet / WU / 2 / Artifact     
+Dimir Signet / UB / 2 / Artifact     
+Rakdos Signet / BR / 2 / Artifact     
+Gruul Signet / RG / 2 / Artifact     
+Selesnya Signet / WG / 2 / Artifact     
+Orzhov Signet / WB / 2 / Artifact     
+Izzet Signet / UR / 2 / Artifact     
+Golgari Signet / BG / 2 / Artifact     
+Boros Signet / WR / 2 / Artifact     
+Simic Signet / UG / 2 / Artifact     
+Glacial Fortress / C / 0 / Land     
+Hallowed Fountain / C / 0 / Land   Plains Island 
+Prairie Stream / C / 0 / Land   Plains Island 
+Seachrome Coast / C / 0 / Land     
+Darkslick Shores / C / 0 / Land     
+Drowned Catacomb / C / 0 / Land     
+Sunken Hollow / C / 0 / Land   Island Swamp 
+Watery Grave / C / 0 / Land   Island Swamp 
+Blackcleave Cliffs / C / 0 / Land     
+Blood Crypt / C / 0 / Land   Swamp Mountain 
+Dragonskull Summit / C / 0 / Land     
+Smoldering Marsh / C / 0 / Land   Swamp Mountain 
+Cinder Glade / C / 0 / Land   Mountain Forest 
+Copperline Gorge / C / 0 / Land     
+Rootbound Crag / C / 0 / Land     
+Stomping Ground / C / 0 / Land   Mountain Forest 
+Canopy Vista / C / 0 / Land   Forest Plains 
+Razorverge Thicket / C / 0 / Land     
+Sunpetal Grove / C / 0 / Land     
+Temple Garden / C / 0 / Land   Forest Plains 
+Concealed Courtyard / C / 0 / Land     
+Forsaken Sanctuary / C / 0 / Land     
+Godless Shrine / C / 0 / Land   Plains Swamp 
+Isolated Chapel / C / 0 / Land     
+Highland Lake / C / 0 / Land     
+Spirebluff Canal / C / 0 / Land     
+Steam Vents / C / 0 / Land   Island Mountain 
+Sulfur Falls / C / 0 / Land     
+Blooming Marsh / C / 0 / Land     
+Foul Orchard / C / 0 / Land     
+Overgrown Tomb / C / 0 / Land   Swamp Forest 
+Woodland Cemetery / C / 0 / Land     
+Clifftop Retreat / C / 0 / Land     
+Inspiring Vantage / C / 0 / Land     
+Sacred Foundry / C / 0 / Land   Mountain Plains 
+Stone Quarry / C / 0 / Land     
+Botanical Sanctum / C / 0 / Land     
+Breeding Pool / C / 0 / Land   Forest Island 
+Hinterland Harbor / C / 0 / Land     
+Woodland Stream / C / 0 / Land     
+Spara's Headquarters / C / 0 / Land   Forest Plains Island
+Raffine's Tower / C / 0 / Land   Plains Island Swamp
+Xander's Lounge / C / 0 / Land   Island Swamp Mountain
+Ziatora's Proving Ground / C / 0 / Land   Swamp Mountain Forest
+Jetmir's Garden / C / 0 / Land   Mountain Forest Plains
+Savai Triome / C / 0 / Land   Mountain Plains Swamp
+Ketria Triome / C / 0 / Land   Forest Island Mountain
+Indatha Triome / C / 0 / Land   Plains Swamp Forest
+Raugrin Triome / C / 0 / Land   Island Mountain Plains
+Zagoth Triome / C / 0 / Land   Swamp Forest Island
+Arid Mesa / C / 0 / Land     
+Ash Barrens / C / 0 / Land     
+Bloodstained Mire / C / 0 / Land     
+Crawling Barrens / C / 0 / Land     
+Field of Ruin / C / 0 / Land     
+Flooded Strand / C / 0 / Land     
+Marsh Flats / C / 0 / Land     
+Misty Rainforest / C / 0 / Land     
+Polluted Delta / C / 0 / Land     
+Scalding Tarn / C / 0 / Land     
+Scavenger Grounds / C / 0 / Land   Desert  
+Spire of Industry / C / 0 / Land     
+Verdant Catacombs / C / 0 / Land     
+Windswept Heath / C / 0 / Land     
+Wooded Foothills / C / 0 / Land     

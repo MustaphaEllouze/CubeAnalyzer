@@ -1,40 +1,5 @@
 {
     "cards": [
-        {
-            "name": "Snuff Out",
-            "color": "black",
-            "mana_value": 4,
-            "card_types": [
-                "instant"
-            ],
-            "id": 1
-        },
-        {
-            "name": "Fading Hope",
-            "color": "blue",
-            "mana_value": 1,
-            "card_types": [
-                "instant"
-            ],
-            "id": 2
-        },
-        {
-            "name": "Bone Shards",
-            "color": "black",
-            "mana_value": 1,
-            "card_types": [
-                "sorcery"
-            ],
-            "id": 3
-        },
-        {
-            "name": "Chandra, Torch of Defiance",
-            "color": "red",
-            "mana_value": 4,
-            "card_types": [
-                "planeswalker"
-            ],
-            "id": 4
-        }
+        
     ]
 }

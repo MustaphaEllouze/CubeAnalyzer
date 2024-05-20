@@ -4,7 +4,7 @@ from ..elo_data.elocards_getter import ElocardsGetter
 
 class CardsParser :
 
-    TYPES_SEPARATOR = ','
+    TYPES_SEPARATOR = ' '
     DATA_SEPARATOR = '/'
 
     @classmethod
@@ -21,7 +21,6 @@ class CardsParser :
             
             if not len(splitted_data) == 4 :
                 raise ValueError(f'Invalid line: {stripped_card}')
-            
             cardname, color, manavalue, types = splitted_data
             
             if not manavalue.strip().isdigit() : 
@@ -29,9 +28,9 @@ class CardsParser :
             
             CardsGetter.add_card_to_database_from_data(
                 name=cardname.strip(),
-                color=color.strip(),
+                color=[c for c in color.strip()],
                 mana_value=int(manavalue.strip()),
-                card_types=[sub.strip() for sub in types.split(cls.TYPES_SEPARATOR)],
+                card_types=[sub.strip() for sub in types.split(cls.TYPES_SEPARATOR) if sub.strip()],
             )
 
             ElocardsGetter.add_card_to_database_from_data(
