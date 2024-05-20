@@ -1,5 +1,6726 @@
 {
     "cards": [
-        
+        {
+            "name": "Dauntless Bodyguard",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "knight"
+            ],
+            "id": 1
+        },
+        {
+            "name": "Giver of Runes",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "kor",
+                "cleric"
+            ],
+            "id": 2
+        },
+        {
+            "name": "Thraben Inspector",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 3
+        },
+        {
+            "name": "Toolcraft Exemplar",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "dwarf",
+                "artificer"
+            ],
+            "id": 4
+        },
+        {
+            "name": "Usher of the Fallen",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "spirit",
+                "warrior"
+            ],
+            "id": 5
+        },
+        {
+            "name": "Accorder Paladin",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "knight"
+            ],
+            "id": 6
+        },
+        {
+            "name": "Adanto Vanguard",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "vampire",
+                "soldier"
+            ],
+            "id": 7
+        },
+        {
+            "name": "Adorned Pouncer",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "cat"
+            ],
+            "id": 8
+        },
+        {
+            "name": "Cathar Commando",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 9
+        },
+        {
+            "name": "Daxos, Blessed by the Sun",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "enchantment",
+                "creature",
+                "demigod"
+            ],
+            "id": 10
+        },
+        {
+            "name": "Ethersworn Canonist",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "human",
+                "cleric"
+            ],
+            "id": 11
+        },
+        {
+            "name": "Lion Sash",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "equipment",
+                "cat"
+            ],
+            "id": 12
+        },
+        {
+            "name": "Selfless Spirit",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "spirit",
+                "cleric"
+            ],
+            "id": 13
+        },
+        {
+            "name": "Sungold Sentinel",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 14
+        },
+        {
+            "name": "Suture Priest",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "phyrexian",
+                "cleric"
+            ],
+            "id": 15
+        },
+        {
+            "name": "Thalia, Guardian of Thraben",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 16
+        },
+        {
+            "name": "Adeline, Resplendent Cathar",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "knight"
+            ],
+            "id": 17
+        },
+        {
+            "name": "Aven Interrupter",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "bird",
+                "rogue"
+            ],
+            "id": 18
+        },
+        {
+            "name": "Blade Splicer",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "phyrexian",
+                "human",
+                "artificer"
+            ],
+            "id": 19
+        },
+        {
+            "name": "Digsite Engineer",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "dwarf",
+                "artificer"
+            ],
+            "id": 20
+        },
+        {
+            "name": "Eidolon of Countless Battles",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment",
+                "creature",
+                "spirit"
+            ],
+            "id": 21
+        },
+        {
+            "name": "Elite Spellbinder",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "cleric"
+            ],
+            "id": 22
+        },
+        {
+            "name": "Master Trinketeer",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "dwarf",
+                "artificer"
+            ],
+            "id": 23
+        },
+        {
+            "name": "Metropolis Reformer",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "angel",
+                "cleric"
+            ],
+            "id": 24
+        },
+        {
+            "name": "Monastery Mentor",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "monk"
+            ],
+            "id": 25
+        },
+        {
+            "name": "Porcelain Legionnaire",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "creature",
+                "phyrexian",
+                "soldier"
+            ],
+            "id": 26
+        },
+        {
+            "name": "Skyclave Apparition",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "kor",
+                "spirit"
+            ],
+            "id": 27
+        },
+        {
+            "name": "Sunscourge Champion",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "wizard"
+            ],
+            "id": 28
+        },
+        {
+            "name": "Thalia, Heretic Cathar",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 29
+        },
+        {
+            "name": "Bennie Bracks, Zoologist",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elf",
+                "druid"
+            ],
+            "id": 30
+        },
+        {
+            "name": "Emeria Angel",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "angel"
+            ],
+            "id": 31
+        },
+        {
+            "name": "Mangara, the Diplomat",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "cleric"
+            ],
+            "id": 32
+        },
+        {
+            "name": "Mondrak, Glory Dominus",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "phyrexian",
+                "horror"
+            ],
+            "id": 33
+        },
+        {
+            "name": "Serra Paragon",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "angel"
+            ],
+            "id": 34
+        },
+        {
+            "name": "Angel of Invention",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "angel"
+            ],
+            "id": 35
+        },
+        {
+            "name": "Archangel of Thune",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "angel"
+            ],
+            "id": 36
+        },
+        {
+            "name": "Bronze Guardian",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "artifact",
+                "creature",
+                "golem"
+            ],
+            "id": 37
+        },
+        {
+            "name": "Platoon Dispenser",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 38
+        },
+        {
+            "name": "Scion of Vitu-Ghazi",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 39
+        },
+        {
+            "name": "Timeless Dragon",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "dragon"
+            ],
+            "id": 40
+        },
+        {
+            "name": "Wingmate Roc",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "bird"
+            ],
+            "id": 41
+        },
+        {
+            "name": "Archangel Elspeth",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "elspeth"
+            ],
+            "id": 42
+        },
+        {
+            "name": "Gods Willing",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 43
+        },
+        {
+            "name": "Path to Exile",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 44
+        },
+        {
+            "name": "Secure the Wastes",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 45
+        },
+        {
+            "name": "Blessed Alliance",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 46
+        },
+        {
+            "name": "Fateful Absence",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 47
+        },
+        {
+            "name": "Feat of Resistance",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 48
+        },
+        {
+            "name": "Get Lost",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 49
+        },
+        {
+            "name": "Rootborn Defenses",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 50
+        },
+        {
+            "name": "Stroke of Midnight",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 51
+        },
+        {
+            "name": "Unbreakable Formation",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 52
+        },
+        {
+            "name": "Lingering Souls",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 53
+        },
+        {
+            "name": "Battle Screech",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 54
+        },
+        {
+            "name": "Doomskar",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 55
+        },
+        {
+            "name": "Sunfall",
+            "color": [
+                "white"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 56
+        },
+        {
+            "name": "Barbed Spike",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "equipment"
+            ],
+            "id": 57
+        },
+        {
+            "name": "Staff of the Storyteller",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 58
+        },
+        {
+            "name": "Aerial Surveyor",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 59
+        },
+        {
+            "name": "Legion's Landing",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "legendary",
+                "enchantment"
+            ],
+            "id": 60
+        },
+        {
+            "name": "Sentinel's Eyes",
+            "color": [
+                "white"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "enchantment",
+                "aura"
+            ],
+            "id": 61
+        },
+        {
+            "name": "Blind Obedience",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 62
+        },
+        {
+            "name": "Dawn of Hope",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 63
+        },
+        {
+            "name": "Skrelv's Hive",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 64
+        },
+        {
+            "name": "The Birth of Meletis",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment",
+                "saga"
+            ],
+            "id": 65
+        },
+        {
+            "name": "History of Benalia",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment",
+                "saga"
+            ],
+            "id": 66
+        },
+        {
+            "name": "In the Trenches",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 67
+        },
+        {
+            "name": "Three Blind Mice",
+            "color": [
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment",
+                "saga"
+            ],
+            "id": 68
+        },
+        {
+            "name": "Angelic Destiny",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment",
+                "aura"
+            ],
+            "id": 69
+        },
+        {
+            "name": "Anointed Procession",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 70
+        },
+        {
+            "name": "Cast Out",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 71
+        },
+        {
+            "name": "Faith's Fetters",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment",
+                "aura"
+            ],
+            "id": 72
+        },
+        {
+            "name": "Felidar Retreat",
+            "color": [
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 73
+        },
+        {
+            "name": "Leyline Binding",
+            "color": [
+                "white"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 74
+        },
+        {
+            "name": "Invasion of Gobakhan",
+            "color": [
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "battle",
+                "siege"
+            ],
+            "id": 75
+        },
+        {
+            "name": "Pteramander",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "salamander",
+                "drake"
+            ],
+            "id": 76
+        },
+        {
+            "name": "Siren Stormtamer",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "siren",
+                "pirate",
+                "wizard"
+            ],
+            "id": 77
+        },
+        {
+            "name": "Spectral Sailor",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "spirit",
+                "pirate"
+            ],
+            "id": 78
+        },
+        {
+            "name": "Brineborn Cutthroat",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "merfolk",
+                "pirate"
+            ],
+            "id": 79
+        },
+        {
+            "name": "Faerie Mastermind",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "faerie",
+                "rogue"
+            ],
+            "id": 80
+        },
+        {
+            "name": "Ghostly Pilferer",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "spirit",
+                "rogue"
+            ],
+            "id": 81
+        },
+        {
+            "name": "Merfolk Trickster",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "merfolk",
+                "wizard"
+            ],
+            "id": 82
+        },
+        {
+            "name": "Moon-Circuit Hacker",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment",
+                "creature",
+                "human",
+                "ninja"
+            ],
+            "id": 83
+        },
+        {
+            "name": "Surge Engine",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 84
+        },
+        {
+            "name": "Suspicious Stowaway",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "rogue",
+                "werewolf"
+            ],
+            "id": 85
+        },
+        {
+            "name": "Champion of Wits",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "naga",
+                "wizard"
+            ],
+            "id": 86
+        },
+        {
+            "name": "Chrome Host Seedshark",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "phyrexian",
+                "shark"
+            ],
+            "id": 87
+        },
+        {
+            "name": "Emry, Lurker of the Loch",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "merfolk",
+                "wizard"
+            ],
+            "id": 88
+        },
+        {
+            "name": "Forensic Gadgeteer",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "vedalken",
+                "artificer",
+                "detective"
+            ],
+            "id": 89
+        },
+        {
+            "name": "Frost Trickster",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "bird",
+                "wizard"
+            ],
+            "id": 90
+        },
+        {
+            "name": "Prosperous Thief",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "ninja"
+            ],
+            "id": 91
+        },
+        {
+            "name": "Sai, Master Thopterist",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 92
+        },
+        {
+            "name": "Sea-Dasher Octopus",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "octopus"
+            ],
+            "id": 93
+        },
+        {
+            "name": "Skystrike Officer",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 94
+        },
+        {
+            "name": "Unctus, Grand Metatect",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "artifact",
+                "creature",
+                "phyrexian",
+                "vedalken"
+            ],
+            "id": 95
+        },
+        {
+            "name": "Unctus's Retrofitter",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "phyrexian",
+                "artificer"
+            ],
+            "id": 96
+        },
+        {
+            "name": "Vendilion Clique",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "faerie",
+                "wizard"
+            ],
+            "id": 97
+        },
+        {
+            "name": "Katsumasa, the Animator",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "moonfolk",
+                "artificer"
+            ],
+            "id": 98
+        },
+        {
+            "name": "Niblis of Frost",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "spirit"
+            ],
+            "id": 99
+        },
+        {
+            "name": "Ninja of the Deep Hours",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "human",
+                "ninja"
+            ],
+            "id": 100
+        },
+        {
+            "name": "Phyrexian Metamorph",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact",
+                "creature",
+                "phyrexian",
+                "shapeshifter"
+            ],
+            "id": 101
+        },
+        {
+            "name": "Whirler Rogue",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "human",
+                "rogue",
+                "artificer"
+            ],
+            "id": 102
+        },
+        {
+            "name": "Geology Enthusiast",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 103
+        },
+        {
+            "name": "Guardian of Tazeem",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "sphinx"
+            ],
+            "id": 104
+        },
+        {
+            "name": "Mulldrifter",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 105
+        },
+        {
+            "name": "Research Thief",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "artifact",
+                "creature",
+                "moonfolk",
+                "wizard"
+            ],
+            "id": 106
+        },
+        {
+            "name": "Shipwreck Dowser",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "merfolk",
+                "wizard"
+            ],
+            "id": 107
+        },
+        {
+            "name": "Stormwing Entity",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 108
+        },
+        {
+            "name": "Thryx, the Sudden Storm",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elemental",
+                "giant"
+            ],
+            "id": 109
+        },
+        {
+            "name": "Kappa Cannoneer",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "artifact",
+                "creature",
+                "turtle",
+                "warrior"
+            ],
+            "id": 110
+        },
+        {
+            "name": "Roil Elemental",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 111
+        },
+        {
+            "name": "Torrential Gearhulk",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 112
+        },
+        {
+            "name": "Arcane Proxy",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "artifact",
+                "creature",
+                "wizard"
+            ],
+            "id": 113
+        },
+        {
+            "name": "Thought Monitor",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 114
+        },
+        {
+            "name": "Tolarian Terror",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "creature",
+                "serpent"
+            ],
+            "id": 115
+        },
+        {
+            "name": "Jace, Architect of Thought",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "jace"
+            ],
+            "id": 116
+        },
+        {
+            "name": "Brainstorm",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 117
+        },
+        {
+            "name": "Condescend",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 118
+        },
+        {
+            "name": "Consider",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 119
+        },
+        {
+            "name": "Fading Hope",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 120
+        },
+        {
+            "name": "Slip Out the Back",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 121
+        },
+        {
+            "name": "Spell Pierce",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 122
+        },
+        {
+            "name": "Thought Scour",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 123
+        },
+        {
+            "name": "Counterspell",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 124
+        },
+        {
+            "name": "Into the Roil",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 125
+        },
+        {
+            "name": "Lose Focus",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 126
+        },
+        {
+            "name": "Mana Leak",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 127
+        },
+        {
+            "name": "Miscalculation",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 128
+        },
+        {
+            "name": "Negate",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 129
+        },
+        {
+            "name": "Think Twice",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 130
+        },
+        {
+            "name": "Winds of Rebuke",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 131
+        },
+        {
+            "name": "Exclude",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 132
+        },
+        {
+            "name": "Saw It Coming",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 133
+        },
+        {
+            "name": "Supreme Will",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 134
+        },
+        {
+            "name": "Behold the Multiverse",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 135
+        },
+        {
+            "name": "Fact or Fiction",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 136
+        },
+        {
+            "name": "Memory Deluge",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 137
+        },
+        {
+            "name": "Dig Through Time",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 8,
+            "card_types": [
+                "instant"
+            ],
+            "id": 138
+        },
+        {
+            "name": "Hard Evidence",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 139
+        },
+        {
+            "name": "Chart a Course",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 140
+        },
+        {
+            "name": "Deep Analysis",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 141
+        },
+        {
+            "name": "Reverse Engineer",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 142
+        },
+        {
+            "name": "Treasure Cruise",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 8,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 143
+        },
+        {
+            "name": "Aether Spellbomb",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 144
+        },
+        {
+            "name": "Witching Well",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 145
+        },
+        {
+            "name": "Mnemonic Sphere",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 146
+        },
+        {
+            "name": "Subterranean Schooner",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 147
+        },
+        {
+            "name": "Witness Protection",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "enchantment",
+                "aura"
+            ],
+            "id": 148
+        },
+        {
+            "name": "Military Intelligence",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 149
+        },
+        {
+            "name": "Reconnaissance Mission",
+            "color": [
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 150
+        },
+        {
+            "name": "Bloodsoaked Champion",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "warrior"
+            ],
+            "id": 151
+        },
+        {
+            "name": "Carrion Feeder",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "zombie"
+            ],
+            "id": 152
+        },
+        {
+            "name": "Dread Wanderer",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "zombie",
+                "jackal"
+            ],
+            "id": 153
+        },
+        {
+            "name": "Gutterbones",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "skeleton",
+                "warrior"
+            ],
+            "id": 154
+        },
+        {
+            "name": "Knight of the Ebon Legion",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "vampire",
+                "knight"
+            ],
+            "id": 155
+        },
+        {
+            "name": "Stitcher's Supplier",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "zombie"
+            ],
+            "id": 156
+        },
+        {
+            "name": "Blood Artist",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "vampire"
+            ],
+            "id": 157
+        },
+        {
+            "name": "Bloodghast",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "vampire",
+                "spirit"
+            ],
+            "id": 158
+        },
+        {
+            "name": "Homicide Investigator",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "detective"
+            ],
+            "id": 159
+        },
+        {
+            "name": "Mire Triton",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "zombie",
+                "merfolk"
+            ],
+            "id": 160
+        },
+        {
+            "name": "Order of Midnight",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "knight"
+            ],
+            "id": 161
+        },
+        {
+            "name": "Skyclave Shade",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "shade"
+            ],
+            "id": 162
+        },
+        {
+            "name": "Undead Butler",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "zombie"
+            ],
+            "id": 163
+        },
+        {
+            "name": "Vraan, Executioner Thane",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "phyrexian",
+                "vampire"
+            ],
+            "id": 164
+        },
+        {
+            "name": "Zulaport Cutthroat",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "rogue",
+                "ally"
+            ],
+            "id": 165
+        },
+        {
+            "name": "Biting-Palm Ninja",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "ninja"
+            ],
+            "id": 166
+        },
+        {
+            "name": "Braids, Arisen Nightmare",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "nightmare"
+            ],
+            "id": 167
+        },
+        {
+            "name": "Drana, Liberator of Malakir",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "vampire",
+                "ally"
+            ],
+            "id": 168
+        },
+        {
+            "name": "Gix, Yawgmoth Praetor",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "phyrexian",
+                "praetor"
+            ],
+            "id": 169
+        },
+        {
+            "name": "Gumdrop Poisoner",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "warlock"
+            ],
+            "id": 170
+        },
+        {
+            "name": "Midnight Reaper",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "zombie",
+                "knight"
+            ],
+            "id": 171
+        },
+        {
+            "name": "Murderous Rider",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "zombie",
+                "knight"
+            ],
+            "id": 172
+        },
+        {
+            "name": "Nashi, Moon Sage's Scion",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "rat",
+                "ninja"
+            ],
+            "id": 173
+        },
+        {
+            "name": "Ophiomancer",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 174
+        },
+        {
+            "name": "Rotting Regisaur",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "zombie",
+                "dinosaur"
+            ],
+            "id": 175
+        },
+        {
+            "name": "Sedgemoor Witch",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "warlock"
+            ],
+            "id": 176
+        },
+        {
+            "name": "Vampire Nighthawk",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "vampire",
+                "shaman"
+            ],
+            "id": 177
+        },
+        {
+            "name": "Veinwitch Coven",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "vampire",
+                "warlock"
+            ],
+            "id": 178
+        },
+        {
+            "name": "Vito, Thorn of the Dusk Rose",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "vampire",
+                "cleric"
+            ],
+            "id": 179
+        },
+        {
+            "name": "Woe Strider",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "horror"
+            ],
+            "id": 180
+        },
+        {
+            "name": "Bushmeat Poacher",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 181
+        },
+        {
+            "name": "Gonti, Lord of Luxury",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "aetherborn",
+                "rogue"
+            ],
+            "id": 182
+        },
+        {
+            "name": "Grim Hireling",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "tiefling",
+                "rogue"
+            ],
+            "id": 183
+        },
+        {
+            "name": "Kalitas, Traitor of Ghet",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "vampire",
+                "warrior"
+            ],
+            "id": 184
+        },
+        {
+            "name": "Rankle, Master of Pranks",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "faerie",
+                "rogue"
+            ],
+            "id": 185
+        },
+        {
+            "name": "Ravenous Chupacabra",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "beast",
+                "horror"
+            ],
+            "id": 186
+        },
+        {
+            "name": "Shriekmaw",
+            "color": [
+                "black"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 187
+        },
+        {
+            "name": "Sidisi, Undead Vizier",
+            "color": [
+                "black"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "zombie",
+                "naga"
+            ],
+            "id": 188
+        },
+        {
+            "name": "Syr Konrad, the Grim",
+            "color": [
+                "black"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "knight"
+            ],
+            "id": 189
+        },
+        {
+            "name": "Noxious Gearhulk",
+            "color": [
+                "black"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 190
+        },
+        {
+            "name": "Rodolf Duskbringer",
+            "color": [
+                "black"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "creature",
+                "vampire",
+                "angel"
+            ],
+            "id": 191
+        },
+        {
+            "name": "Tasigur, the Golden Fang",
+            "color": [
+                "black"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 192
+        },
+        {
+            "name": "Gurmag Angler",
+            "color": [
+                "black"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "creature",
+                "zombie",
+                "fish"
+            ],
+            "id": 193
+        },
+        {
+            "name": "Phyrexian Fleshgorger",
+            "color": [
+                "black"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "artifact",
+                "creature",
+                "phyrexian",
+                "wurm"
+            ],
+            "id": 194
+        },
+        {
+            "name": "Liliana, Dreadhorde General",
+            "color": [
+                "black"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "liliana"
+            ],
+            "id": 195
+        },
+        {
+            "name": "Cling to Dust",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 196
+        },
+        {
+            "name": "Malakir Rebirth",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 197
+        },
+        {
+            "name": "Village Rites",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 198
+        },
+        {
+            "name": "Go for the Throat",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 199
+        },
+        {
+            "name": "Infernal Grasp",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 200
+        },
+        {
+            "name": "Malicious Affliction",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 201
+        },
+        {
+            "name": "Plumb the Forbidden",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 202
+        },
+        {
+            "name": "Reckoner's Bargain",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 203
+        },
+        {
+            "name": "Sheoldred's Edict",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 204
+        },
+        {
+            "name": "Dismember",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 205
+        },
+        {
+            "name": "Hero's Downfall",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 206
+        },
+        {
+            "name": "Unseal the Necropolis",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 207
+        },
+        {
+            "name": "Lethal Scheme",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 208
+        },
+        {
+            "name": "Snuff Out",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 209
+        },
+        {
+            "name": "Murderous Cut",
+            "color": [
+                "black"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "instant"
+            ],
+            "id": 210
+        },
+        {
+            "name": "Bone Shards",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 211
+        },
+        {
+            "name": "Thoughtseize",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 212
+        },
+        {
+            "name": "Agonizing Remorse",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 213
+        },
+        {
+            "name": "Collective Brutality",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 214
+        },
+        {
+            "name": "Agadeem's Awakening",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 215
+        },
+        {
+            "name": "Flay Essence",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 216
+        },
+        {
+            "name": "Read the Bones",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 217
+        },
+        {
+            "name": "Toxic Deluge",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 218
+        },
+        {
+            "name": "Damnation",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 219
+        },
+        {
+            "name": "Languish",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 220
+        },
+        {
+            "name": "Whip of Erebos",
+            "color": [
+                "black"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "enchantment",
+                "artifact"
+            ],
+            "id": 221
+        },
+        {
+            "name": "Vampiric Rites",
+            "color": [
+                "black"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 222
+        },
+        {
+            "name": "Arguel's Blood Fast",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "enchantment"
+            ],
+            "id": 223
+        },
+        {
+            "name": "Bitterblossom",
+            "color": [
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "kindred",
+                "enchantment",
+                "faerie"
+            ],
+            "id": 224
+        },
+        {
+            "name": "Bastion of Remembrance",
+            "color": [
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 225
+        },
+        {
+            "name": "Bomat Courier",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 226
+        },
+        {
+            "name": "Dragon's Rage Channeler",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 227
+        },
+        {
+            "name": "Goblin Bushwhacker",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "goblin",
+                "warrior"
+            ],
+            "id": 228
+        },
+        {
+            "name": "Grim Lavamancer",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "wizard"
+            ],
+            "id": 229
+        },
+        {
+            "name": "Monastery Swiftspear",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "monk"
+            ],
+            "id": 230
+        },
+        {
+            "name": "Rabbit Battery",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact",
+                "creature",
+                "equipment",
+                "rabbit"
+            ],
+            "id": 231
+        },
+        {
+            "name": "Reinforced Ronin",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact",
+                "creature",
+                "human",
+                "samurai"
+            ],
+            "id": 232
+        },
+        {
+            "name": "Soul-Scar Mage",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "human",
+                "wizard"
+            ],
+            "id": 233
+        },
+        {
+            "name": "Abbot of Keral Keep",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "monk"
+            ],
+            "id": 234
+        },
+        {
+            "name": "Akoum Stonewaker",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 235
+        },
+        {
+            "name": "Earthshaker Khenra",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "jackal",
+                "warrior"
+            ],
+            "id": 236
+        },
+        {
+            "name": "Flametongue Yearling",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "kavu"
+            ],
+            "id": 237
+        },
+        {
+            "name": "Kari Zev, Skyship Raider",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "pirate"
+            ],
+            "id": 238
+        },
+        {
+            "name": "Khenra Spellspear",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "jackal",
+                "warrior"
+            ],
+            "id": 239
+        },
+        {
+            "name": "Mogg War Marshal",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "goblin",
+                "warrior"
+            ],
+            "id": 240
+        },
+        {
+            "name": "Scrapwork Mutt",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "dog"
+            ],
+            "id": 241
+        },
+        {
+            "name": "Young Pyromancer",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 242
+        },
+        {
+            "name": "Ahn-Crop Crasher",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "minotaur",
+                "warrior"
+            ],
+            "id": 243
+        },
+        {
+            "name": "Alpine Guide",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "snow",
+                "creature",
+                "human",
+                "scout"
+            ],
+            "id": 244
+        },
+        {
+            "name": "Anax, Hardened in the Forge",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "enchantment",
+                "creature",
+                "demigod"
+            ],
+            "id": 245
+        },
+        {
+            "name": "Bonecrusher Giant",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "giant"
+            ],
+            "id": 246
+        },
+        {
+            "name": "Breeches, Eager Pillager",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "goblin",
+                "pirate"
+            ],
+            "id": 247
+        },
+        {
+            "name": "Breya's Apprentice",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 248
+        },
+        {
+            "name": "Captain Lannery Storm",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "pirate"
+            ],
+            "id": 249
+        },
+        {
+            "name": "Flamewake Phoenix",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "phoenix"
+            ],
+            "id": 250
+        },
+        {
+            "name": "Gut, True Soul Zealot",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "goblin",
+                "shaman"
+            ],
+            "id": 251
+        },
+        {
+            "name": "Laelia, the Blade Reforged",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "spirit",
+                "warrior"
+            ],
+            "id": 252
+        },
+        {
+            "name": "Legion Warboss",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "goblin",
+                "soldier"
+            ],
+            "id": 253
+        },
+        {
+            "name": "Pia Nalaar",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 254
+        },
+        {
+            "name": "Reckless Bushwhacker",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "goblin",
+                "warrior",
+                "ally"
+            ],
+            "id": 255
+        },
+        {
+            "name": "Thopter Engineer",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 256
+        },
+        {
+            "name": "Akoum Firebird",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "phoenix"
+            ],
+            "id": 257
+        },
+        {
+            "name": "Embodiment of Fury",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 258
+        },
+        {
+            "name": "Flametongue Kavu",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "kavu"
+            ],
+            "id": 259
+        },
+        {
+            "name": "Goblin Heelcutter",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "goblin",
+                "berserker"
+            ],
+            "id": 260
+        },
+        {
+            "name": "Pia and Kiran Nalaar",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 261
+        },
+        {
+            "name": "Twinshot Sniper",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact",
+                "creature",
+                "goblin",
+                "archer"
+            ],
+            "id": 262
+        },
+        {
+            "name": "Glorybringer",
+            "color": [
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "dragon"
+            ],
+            "id": 263
+        },
+        {
+            "name": "Nesting Dragon",
+            "color": [
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "dragon"
+            ],
+            "id": 264
+        },
+        {
+            "name": "Stormbreath Dragon",
+            "color": [
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "dragon"
+            ],
+            "id": 265
+        },
+        {
+            "name": "Inferno Titan",
+            "color": [
+                "red"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "creature",
+                "giant"
+            ],
+            "id": 266
+        },
+        {
+            "name": "Moraug, Fury of Akoum",
+            "color": [
+                "red"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "creature",
+                "minotaur",
+                "warrior"
+            ],
+            "id": 267
+        },
+        {
+            "name": "Etali, Primal Conqueror",
+            "color": [
+                "red"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elder",
+                "dinosaur"
+            ],
+            "id": 268
+        },
+        {
+            "name": "Bedlam Reveler",
+            "color": [
+                "red"
+            ],
+            "mana_value": 8,
+            "card_types": [
+                "creature",
+                "devil",
+                "horror"
+            ],
+            "id": 269
+        },
+        {
+            "name": "Chandra, Torch of Defiance",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "chandra"
+            ],
+            "id": 270
+        },
+        {
+            "name": "Brute Force",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 271
+        },
+        {
+            "name": "Built to Smash",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 272
+        },
+        {
+            "name": "Coordinated Assault",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 273
+        },
+        {
+            "name": "Galvanic Blast",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 274
+        },
+        {
+            "name": "Lightning Bolt",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 275
+        },
+        {
+            "name": "Abrade",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 276
+        },
+        {
+            "name": "Temur Battle Rage",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 277
+        },
+        {
+            "name": "Thrill of Possibility",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 278
+        },
+        {
+            "name": "Kazuul's Fury",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 279
+        },
+        {
+            "name": "You See a Pair of Goblins",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 280
+        },
+        {
+            "name": "Big Score",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 281
+        },
+        {
+            "name": "Stoke the Flames",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "instant"
+            ],
+            "id": 282
+        },
+        {
+            "name": "Act of Aggression",
+            "color": [
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "instant"
+            ],
+            "id": 283
+        },
+        {
+            "name": "Faithless Looting",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 284
+        },
+        {
+            "name": "Cathartic Reunion",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 285
+        },
+        {
+            "name": "Dragon Fodder",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 286
+        },
+        {
+            "name": "Obliterating Bolt",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 287
+        },
+        {
+            "name": "Collective Defiance",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 288
+        },
+        {
+            "name": "Light Up the Stage",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 289
+        },
+        {
+            "name": "Burn Down the House",
+            "color": [
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 290
+        },
+        {
+            "name": "Experimental Synthesizer",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 291
+        },
+        {
+            "name": "Pyrite Spellbomb",
+            "color": [
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 292
+        },
+        {
+            "name": "Legion Extruder",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 293
+        },
+        {
+            "name": "Hammer of Purphoros",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "enchantment",
+                "artifact"
+            ],
+            "id": 294
+        },
+        {
+            "name": "Magmatic Galleon",
+            "color": [
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 295
+        },
+        {
+            "name": "Makeshift Munitions",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 296
+        },
+        {
+            "name": "Valakut Exploration",
+            "color": [
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 297
+        },
+        {
+            "name": "Outpost Siege",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 298
+        },
+        {
+            "name": "Visions of Phyrexia",
+            "color": [
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 299
+        },
+        {
+            "name": "Invasion of Mercadia",
+            "color": [
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "battle",
+                "siege"
+            ],
+            "id": 300
+        },
+        {
+            "name": "Birds of Paradise",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "bird"
+            ],
+            "id": 301
+        },
+        {
+            "name": "Elvish Mystic",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "elf",
+                "druid"
+            ],
+            "id": 302
+        },
+        {
+            "name": "Ignoble Hierarch",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "goblin",
+                "shaman"
+            ],
+            "id": 303
+        },
+        {
+            "name": "Llanowar Elves",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "elf",
+                "druid"
+            ],
+            "id": 304
+        },
+        {
+            "name": "Bristly Bill, Spine Sower",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "plant",
+                "druid"
+            ],
+            "id": 305
+        },
+        {
+            "name": "Cankerbloom",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "phyrexian",
+                "fungus"
+            ],
+            "id": 306
+        },
+        {
+            "name": "Duskwatch Recruiter",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "warrior",
+                "werewolf"
+            ],
+            "id": 307
+        },
+        {
+            "name": "Fauna Shaman",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "elf",
+                "shaman"
+            ],
+            "id": 308
+        },
+        {
+            "name": "Gala Greeters",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "elf",
+                "druid"
+            ],
+            "id": 309
+        },
+        {
+            "name": "Lotus Cobra",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "snake"
+            ],
+            "id": 310
+        },
+        {
+            "name": "Resilient Khenra",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "jackal",
+                "wizard"
+            ],
+            "id": 311
+        },
+        {
+            "name": "Satyr Wayfinder",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "satyr"
+            ],
+            "id": 312
+        },
+        {
+            "name": "Scavenging Ooze",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "ooze"
+            ],
+            "id": 313
+        },
+        {
+            "name": "Wildborn Preserver",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "elf",
+                "archer"
+            ],
+            "id": 314
+        },
+        {
+            "name": "Boon Satyr",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment",
+                "creature",
+                "satyr"
+            ],
+            "id": 315
+        },
+        {
+            "name": "Briarbridge Tracker",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "scout"
+            ],
+            "id": 316
+        },
+        {
+            "name": "Courser of Kruphix",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment",
+                "creature",
+                "centaur"
+            ],
+            "id": 317
+        },
+        {
+            "name": "Eternal Witness",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 318
+        },
+        {
+            "name": "Glademuse",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "beast"
+            ],
+            "id": 319
+        },
+        {
+            "name": "Outcaster Trailblazer",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "druid"
+            ],
+            "id": 320
+        },
+        {
+            "name": "Sandstorm Salvager",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 321
+        },
+        {
+            "name": "Selesnya Eulogist",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "centaur",
+                "druid"
+            ],
+            "id": 322
+        },
+        {
+            "name": "Simian Simulacrum",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "creature",
+                "ape"
+            ],
+            "id": 323
+        },
+        {
+            "name": "Tireless Tracker",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "human",
+                "scout"
+            ],
+            "id": 324
+        },
+        {
+            "name": "Wildwood Mentor",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "treefolk"
+            ],
+            "id": 325
+        },
+        {
+            "name": "Bramble Sovereign",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "dryad"
+            ],
+            "id": 326
+        },
+        {
+            "name": "Gemrazer",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "beast"
+            ],
+            "id": 327
+        },
+        {
+            "name": "Goreclaw, Terror of Qal Sisma",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "bear"
+            ],
+            "id": 328
+        },
+        {
+            "name": "Nightpack Ambusher",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "wolf"
+            ],
+            "id": 329
+        },
+        {
+            "name": "Polukranos, World Eater",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "hydra"
+            ],
+            "id": 330
+        },
+        {
+            "name": "Surrak, the Hunt Caller",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "warrior"
+            ],
+            "id": 331
+        },
+        {
+            "name": "Thrun, the Last Troll",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "troll",
+                "shaman"
+            ],
+            "id": 332
+        },
+        {
+            "name": "Timeless Witness",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "human",
+                "shaman"
+            ],
+            "id": 333
+        },
+        {
+            "name": "Yeva, Nature's Herald",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elf",
+                "shaman"
+            ],
+            "id": 334
+        },
+        {
+            "name": "Ashaya, Soul of the Wild",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elemental"
+            ],
+            "id": 335
+        },
+        {
+            "name": "Biogenic Ooze",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "ooze"
+            ],
+            "id": 336
+        },
+        {
+            "name": "Greensleeves, Maro-Sorcerer",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elemental"
+            ],
+            "id": 337
+        },
+        {
+            "name": "Railway Brawler",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "rhino",
+                "warrior"
+            ],
+            "id": 338
+        },
+        {
+            "name": "Rootwire Amalgam",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "artifact",
+                "creature",
+                "golem"
+            ],
+            "id": 339
+        },
+        {
+            "name": "Thragtusk",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "beast"
+            ],
+            "id": 340
+        },
+        {
+            "name": "Vorinclex",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "phyrexian",
+                "praetor"
+            ],
+            "id": 341
+        },
+        {
+            "name": "Workshop Warchief",
+            "color": [
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "rhino",
+                "warrior"
+            ],
+            "id": 342
+        },
+        {
+            "name": "Gruff Triplets",
+            "color": [
+                "green"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "creature",
+                "satyr",
+                "warrior"
+            ],
+            "id": 343
+        },
+        {
+            "name": "Kogla, the Titan Ape",
+            "color": [
+                "green"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "creature",
+                "ape"
+            ],
+            "id": 344
+        },
+        {
+            "name": "Primeval Titan",
+            "color": [
+                "green"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "creature",
+                "giant"
+            ],
+            "id": 345
+        },
+        {
+            "name": "Rampaging Baloths",
+            "color": [
+                "green"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "creature",
+                "beast"
+            ],
+            "id": 346
+        },
+        {
+            "name": "Pelakka Wurm",
+            "color": [
+                "green"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "creature",
+                "wurm"
+            ],
+            "id": 347
+        },
+        {
+            "name": "Woodfall Primus",
+            "color": [
+                "green"
+            ],
+            "mana_value": 8,
+            "card_types": [
+                "creature",
+                "treefolk",
+                "shaman"
+            ],
+            "id": 348
+        },
+        {
+            "name": "Vivien, Champion of the Wilds",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "vivien"
+            ],
+            "id": 349
+        },
+        {
+            "name": "Mutagenic Growth",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 350
+        },
+        {
+            "name": "Smuggler's Surprise",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 351
+        },
+        {
+            "name": "Snakeskin Veil",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 352
+        },
+        {
+            "name": "Vines of Vastwood",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "instant"
+            ],
+            "id": 353
+        },
+        {
+            "name": "Inscription of Abundance",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "instant"
+            ],
+            "id": 354
+        },
+        {
+            "name": "Beast Within",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 355
+        },
+        {
+            "name": "Farseek",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 356
+        },
+        {
+            "name": "Nature's Lore",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 357
+        },
+        {
+            "name": "Rampant Growth",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 358
+        },
+        {
+            "name": "Rhonas's Last Stand",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 359
+        },
+        {
+            "name": "Winding Way",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 360
+        },
+        {
+            "name": "Call of the Herd",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 361
+        },
+        {
+            "name": "Cultivate",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 362
+        },
+        {
+            "name": "Skyshroud Claim",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 363
+        },
+        {
+            "name": "Mouth - Feed",
+            "color": [
+                "green"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 364
+        },
+        {
+            "name": "Lifecrafter's Bestiary",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 365
+        },
+        {
+            "name": "Conduit of Worlds",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 366
+        },
+        {
+            "name": "Esika's Chariot",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "artifact",
+                "vehicle"
+            ],
+            "id": 367
+        },
+        {
+            "name": "Rancor",
+            "color": [
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "enchantment",
+                "aura"
+            ],
+            "id": 368
+        },
+        {
+            "name": "Khalni Heart Expedition",
+            "color": [
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 369
+        },
+        {
+            "name": "Cartouche of Strength",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment",
+                "aura",
+                "cartouche"
+            ],
+            "id": 370
+        },
+        {
+            "name": "Garruk's Uprising",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 371
+        },
+        {
+            "name": "Killer Service",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 372
+        },
+        {
+            "name": "Ulvenwald Mysteries",
+            "color": [
+                "green"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 373
+        },
+        {
+            "name": "Bear Umbra",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment",
+                "aura"
+            ],
+            "id": 374
+        },
+        {
+            "name": "Wilderness Reclamation",
+            "color": [
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "enchantment"
+            ],
+            "id": 375
+        },
+        {
+            "name": "Kotori, Pilot Prodigy",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "moonfolk",
+                "pilot"
+            ],
+            "id": 376
+        },
+        {
+            "name": "Sphinx's Revelation",
+            "color": [
+                "white",
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 377
+        },
+        {
+            "name": "Supreme Verdict",
+            "color": [
+                "white",
+                "blue"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 378
+        },
+        {
+            "name": "Urza, Prince of Kroog",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 379
+        },
+        {
+            "name": "Teferi, Hero of Dominaria",
+            "color": [
+                "white",
+                "blue"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "teferi"
+            ],
+            "id": 380
+        },
+        {
+            "name": "Ethersworn Sphinx",
+            "color": [
+                "blue",
+                "white"
+            ],
+            "mana_value": 9,
+            "card_types": [
+                "artifact",
+                "creature",
+                "sphinx"
+            ],
+            "id": 381
+        },
+        {
+            "name": "Krydle of Baldur's Gate",
+            "color": [
+                "blue",
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "elf",
+                "rogue"
+            ],
+            "id": 382
+        },
+        {
+            "name": "Lazav, Wearer of Faces",
+            "color": [
+                "black",
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "shapeshifter",
+                "detective"
+            ],
+            "id": 383
+        },
+        {
+            "name": "Halo Forager",
+            "color": [
+                "black",
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "faerie",
+                "rogue"
+            ],
+            "id": 384
+        },
+        {
+            "name": "Invasion of Amonkhet",
+            "color": [
+                "black",
+                "blue"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "battle",
+                "siege"
+            ],
+            "id": 385
+        },
+        {
+            "name": "Kaito Shizuki",
+            "color": [
+                "blue",
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "kaito"
+            ],
+            "id": 386
+        },
+        {
+            "name": "Gyruda, Doom of Depths",
+            "color": [
+                "black",
+                "blue"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "creature",
+                "demon",
+                "kraken"
+            ],
+            "id": 387
+        },
+        {
+            "name": "Kroxa, Titan of Death's Hunger",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elder",
+                "giant"
+            ],
+            "id": 388
+        },
+        {
+            "name": "Tymaret, the Murder King",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "zombie",
+                "warrior"
+            ],
+            "id": 389
+        },
+        {
+            "name": "Florian, Voldaren Scion",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "vampire",
+                "noble"
+            ],
+            "id": 390
+        },
+        {
+            "name": "Kolaghan's Command",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 391
+        },
+        {
+            "name": "Ob Nixilis, the Adversary",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "nixilis"
+            ],
+            "id": 392
+        },
+        {
+            "name": "Stormclaw Rager",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "ogre",
+                "warrior"
+            ],
+            "id": 393
+        },
+        {
+            "name": "Ruby, Daring Tracker",
+            "color": [
+                "green",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "scout"
+            ],
+            "id": 394
+        },
+        {
+            "name": "Cactusfolk Sureshot",
+            "color": [
+                "green",
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "plant",
+                "mercenary"
+            ],
+            "id": 395
+        },
+        {
+            "name": "Mina and Denn, Wildborn",
+            "color": [
+                "red",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elf",
+                "ally"
+            ],
+            "id": 396
+        },
+        {
+            "name": "Xenagos, the Reveler",
+            "color": [
+                "red",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "xenagos"
+            ],
+            "id": 397
+        },
+        {
+            "name": "Escape to the Wilds",
+            "color": [
+                "red",
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 398
+        },
+        {
+            "name": "Dragonlord Atarka",
+            "color": [
+                "red",
+                "green"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elder",
+                "dragon"
+            ],
+            "id": 399
+        },
+        {
+            "name": "Fleecemane Lion",
+            "color": [
+                "white",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "cat"
+            ],
+            "id": 400
+        },
+        {
+            "name": "Voice of Resurgence",
+            "color": [
+                "green",
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "elemental"
+            ],
+            "id": 401
+        },
+        {
+            "name": "March of the Multitudes",
+            "color": [
+                "green",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 402
+        },
+        {
+            "name": "Torens, Fist of the Angels",
+            "color": [
+                "green",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "cleric"
+            ],
+            "id": 403
+        },
+        {
+            "name": "Ajani, the Greathearted",
+            "color": [
+                "green",
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "ajani"
+            ],
+            "id": 404
+        },
+        {
+            "name": "Sigarda, Font of Blessings",
+            "color": [
+                "green",
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "angel"
+            ],
+            "id": 405
+        },
+        {
+            "name": "Ayli, Eternal Pilgrim",
+            "color": [
+                "black",
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "kor",
+                "cleric"
+            ],
+            "id": 406
+        },
+        {
+            "name": "Tidehollow Sculler",
+            "color": [
+                "white",
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "zombie"
+            ],
+            "id": 407
+        },
+        {
+            "name": "Anguished Unmaking",
+            "color": [
+                "white",
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "instant"
+            ],
+            "id": 408
+        },
+        {
+            "name": "Kaya, Orzhov Usurper",
+            "color": [
+                "white",
+                "black"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "kaya"
+            ],
+            "id": 409
+        },
+        {
+            "name": "Kunoros, Hound of Athreos",
+            "color": [
+                "black",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "dog"
+            ],
+            "id": 410
+        },
+        {
+            "name": "Markov Purifier",
+            "color": [
+                "black",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "creature",
+                "vampire",
+                "cleric"
+            ],
+            "id": 411
+        },
+        {
+            "name": "Blistercoil Weird",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "weird"
+            ],
+            "id": 412
+        },
+        {
+            "name": "Expressive Iteration",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 413
+        },
+        {
+            "name": "Malcolm, the Eyes",
+            "color": [
+                "red",
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "siren",
+                "pirate"
+            ],
+            "id": 414
+        },
+        {
+            "name": "Third Path Iconoclast",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "monk"
+            ],
+            "id": 415
+        },
+        {
+            "name": "Saheeli, Filigree Master",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "saheeli"
+            ],
+            "id": 416
+        },
+        {
+            "name": "Maverick Thopterist",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "human",
+                "artificer"
+            ],
+            "id": 417
+        },
+        {
+            "name": "Ravenous Squirrel",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "creature",
+                "squirrel"
+            ],
+            "id": 418
+        },
+        {
+            "name": "Grim Flayer",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "warrior"
+            ],
+            "id": 419
+        },
+        {
+            "name": "Jarad, Golgari Lich Lord",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "zombie",
+                "elf"
+            ],
+            "id": 420
+        },
+        {
+            "name": "Skyfisher Spider",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "creature",
+                "spider"
+            ],
+            "id": 421
+        },
+        {
+            "name": "Vraska, Golgari Queen",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "vraska"
+            ],
+            "id": 422
+        },
+        {
+            "name": "The Gitrog, Ravenous Ride",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "creature",
+                "frog",
+                "horror",
+                "mount"
+            ],
+            "id": 423
+        },
+        {
+            "name": "Honored Crop-Captain",
+            "color": [
+                "red",
+                "white"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "human",
+                "warrior"
+            ],
+            "id": 424
+        },
+        {
+            "name": "Anim Pakal, Thousandth Moon",
+            "color": [
+                "red",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 425
+        },
+        {
+            "name": "Arcbound Shikari",
+            "color": [
+                "red",
+                "white"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "creature",
+                "cat",
+                "soldier"
+            ],
+            "id": 426
+        },
+        {
+            "name": "Ajani Vengeant",
+            "color": [
+                "white",
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "ajani"
+            ],
+            "id": 427
+        },
+        {
+            "name": "Caparocti Sunborn",
+            "color": [
+                "red",
+                "white"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "human",
+                "soldier"
+            ],
+            "id": 428
+        },
+        {
+            "name": "Heroic Reinforcements",
+            "color": [
+                "white",
+                "red"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "sorcery"
+            ],
+            "id": 429
+        },
+        {
+            "name": "Gretchen Titchwillow",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "legendary",
+                "creature",
+                "halfling",
+                "druid"
+            ],
+            "id": 430
+        },
+        {
+            "name": "Hydroid Krasis",
+            "color": [
+                "green",
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "creature",
+                "jellyfish",
+                "hydra",
+                "beast"
+            ],
+            "id": 431
+        },
+        {
+            "name": "Kiora, the Crashing Wave",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "kiora"
+            ],
+            "id": 432
+        },
+        {
+            "name": "Rashmi, Eternities Crafter",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "creature",
+                "elf",
+                "druid"
+            ],
+            "id": 433
+        },
+        {
+            "name": "Prophet of Kruphix",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "creature",
+                "human",
+                "wizard"
+            ],
+            "id": 434
+        },
+        {
+            "name": "Aesi, Tyrant of Gyre Strait",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "creature",
+                "serpent"
+            ],
+            "id": 435
+        },
+        {
+            "name": "Hangarback Walker",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 436
+        },
+        {
+            "name": "Arcbound Ravager",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "beast"
+            ],
+            "id": 437
+        },
+        {
+            "name": "Patchwork Automaton",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 438
+        },
+        {
+            "name": "Steel Overseer",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 439
+        },
+        {
+            "name": "Burnished Hart",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "creature",
+                "elk"
+            ],
+            "id": 440
+        },
+        {
+            "name": "Foundry Inspector",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 441
+        },
+        {
+            "name": "Liberator, Urza's Battlethopter",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "legendary",
+                "artifact",
+                "creature",
+                "thopter"
+            ],
+            "id": 442
+        },
+        {
+            "name": "Lodestone Golem",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact",
+                "creature",
+                "golem"
+            ],
+            "id": 443
+        },
+        {
+            "name": "Solemn Simulacrum",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact",
+                "creature",
+                "golem"
+            ],
+            "id": 444
+        },
+        {
+            "name": "Duplicant",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "artifact",
+                "creature",
+                "shapeshifter"
+            ],
+            "id": 445
+        },
+        {
+            "name": "Wurmcoil Engine",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "artifact",
+                "creature",
+                "phyrexian",
+                "wurm"
+            ],
+            "id": 446
+        },
+        {
+            "name": "Myr Battlesphere",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 7,
+            "card_types": [
+                "artifact",
+                "creature",
+                "myr",
+                "construct"
+            ],
+            "id": 447
+        },
+        {
+            "name": "Cityscape Leveler",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 8,
+            "card_types": [
+                "artifact",
+                "creature",
+                "construct"
+            ],
+            "id": 448
+        },
+        {
+            "name": "Karn, Scion of Urza",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "karn"
+            ],
+            "id": 449
+        },
+        {
+            "name": "Ugin, the Ineffable",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 6,
+            "card_types": [
+                "legendary",
+                "planeswalker",
+                "ugin"
+            ],
+            "id": 450
+        },
+        {
+            "name": "Currency Converter",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 451
+        },
+        {
+            "name": "Elixir of Immortality",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 452
+        },
+        {
+            "name": "Retrofitter Foundry",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 453
+        },
+        {
+            "name": "Shadowspear",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 1,
+            "card_types": [
+                "legendary",
+                "artifact",
+                "equipment"
+            ],
+            "id": 454
+        },
+        {
+            "name": "Key to the City",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 455
+        },
+        {
+            "name": "Mazemind Tome",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 456
+        },
+        {
+            "name": "Mind Stone",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 457
+        },
+        {
+            "name": "Reckoner Bankbuster",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 458
+        },
+        {
+            "name": "Smuggler's Copter",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 459
+        },
+        {
+            "name": "Unlicensed Hearse",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 460
+        },
+        {
+            "name": "Cultivator's Caravan",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 3,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 461
+        },
+        {
+            "name": "Hedron Archive",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 462
+        },
+        {
+            "name": "Surgehacker Mech",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 4,
+            "card_types": [
+                "artifact",
+                "vehicle"
+            ],
+            "id": 463
+        },
+        {
+            "name": "Gilded Lotus",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 464
+        },
+        {
+            "name": "Skysovereign, Consul Flagship",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 5,
+            "card_types": [
+                "legendary",
+                "artifact",
+                "vehicle"
+            ],
+            "id": 465
+        },
+        {
+            "name": "Azorius Signet",
+            "color": [
+                "white",
+                "blue"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 466
+        },
+        {
+            "name": "Dimir Signet",
+            "color": [
+                "blue",
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 467
+        },
+        {
+            "name": "Rakdos Signet",
+            "color": [
+                "black",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 468
+        },
+        {
+            "name": "Gruul Signet",
+            "color": [
+                "red",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 469
+        },
+        {
+            "name": "Selesnya Signet",
+            "color": [
+                "white",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 470
+        },
+        {
+            "name": "Orzhov Signet",
+            "color": [
+                "white",
+                "black"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 471
+        },
+        {
+            "name": "Izzet Signet",
+            "color": [
+                "blue",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 472
+        },
+        {
+            "name": "Golgari Signet",
+            "color": [
+                "black",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 473
+        },
+        {
+            "name": "Boros Signet",
+            "color": [
+                "white",
+                "red"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 474
+        },
+        {
+            "name": "Simic Signet",
+            "color": [
+                "blue",
+                "green"
+            ],
+            "mana_value": 2,
+            "card_types": [
+                "artifact"
+            ],
+            "id": 475
+        },
+        {
+            "name": "Glacial Fortress",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 476
+        },
+        {
+            "name": "Hallowed Fountain",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "plains",
+                "island"
+            ],
+            "id": 477
+        },
+        {
+            "name": "Prairie Stream",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "plains",
+                "island"
+            ],
+            "id": 478
+        },
+        {
+            "name": "Seachrome Coast",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 479
+        },
+        {
+            "name": "Darkslick Shores",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 480
+        },
+        {
+            "name": "Drowned Catacomb",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 481
+        },
+        {
+            "name": "Sunken Hollow",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "island",
+                "swamp"
+            ],
+            "id": 482
+        },
+        {
+            "name": "Watery Grave",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "island",
+                "swamp"
+            ],
+            "id": 483
+        },
+        {
+            "name": "Blackcleave Cliffs",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 484
+        },
+        {
+            "name": "Blood Crypt",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "swamp",
+                "mountain"
+            ],
+            "id": 485
+        },
+        {
+            "name": "Dragonskull Summit",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 486
+        },
+        {
+            "name": "Smoldering Marsh",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "swamp",
+                "mountain"
+            ],
+            "id": 487
+        },
+        {
+            "name": "Cinder Glade",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "mountain",
+                "forest"
+            ],
+            "id": 488
+        },
+        {
+            "name": "Copperline Gorge",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 489
+        },
+        {
+            "name": "Rootbound Crag",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 490
+        },
+        {
+            "name": "Stomping Ground",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "mountain",
+                "forest"
+            ],
+            "id": 491
+        },
+        {
+            "name": "Canopy Vista",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "forest",
+                "plains"
+            ],
+            "id": 492
+        },
+        {
+            "name": "Razorverge Thicket",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 493
+        },
+        {
+            "name": "Sunpetal Grove",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 494
+        },
+        {
+            "name": "Temple Garden",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "forest",
+                "plains"
+            ],
+            "id": 495
+        },
+        {
+            "name": "Concealed Courtyard",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 496
+        },
+        {
+            "name": "Forsaken Sanctuary",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 497
+        },
+        {
+            "name": "Godless Shrine",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "plains",
+                "swamp"
+            ],
+            "id": 498
+        },
+        {
+            "name": "Isolated Chapel",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 499
+        },
+        {
+            "name": "Highland Lake",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 500
+        },
+        {
+            "name": "Spirebluff Canal",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 501
+        },
+        {
+            "name": "Steam Vents",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "island",
+                "mountain"
+            ],
+            "id": 502
+        },
+        {
+            "name": "Sulfur Falls",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 503
+        },
+        {
+            "name": "Blooming Marsh",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 504
+        },
+        {
+            "name": "Foul Orchard",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 505
+        },
+        {
+            "name": "Overgrown Tomb",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "swamp",
+                "forest"
+            ],
+            "id": 506
+        },
+        {
+            "name": "Woodland Cemetery",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 507
+        },
+        {
+            "name": "Clifftop Retreat",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 508
+        },
+        {
+            "name": "Inspiring Vantage",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 509
+        },
+        {
+            "name": "Sacred Foundry",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "mountain",
+                "plains"
+            ],
+            "id": 510
+        },
+        {
+            "name": "Stone Quarry",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 511
+        },
+        {
+            "name": "Botanical Sanctum",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 512
+        },
+        {
+            "name": "Breeding Pool",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "forest",
+                "island"
+            ],
+            "id": 513
+        },
+        {
+            "name": "Hinterland Harbor",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 514
+        },
+        {
+            "name": "Woodland Stream",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 515
+        },
+        {
+            "name": "Spara's Headquarters",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "forest",
+                "plains",
+                "island"
+            ],
+            "id": 516
+        },
+        {
+            "name": "Raffine's Tower",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "plains",
+                "island",
+                "swamp"
+            ],
+            "id": 517
+        },
+        {
+            "name": "Xander's Lounge",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "island",
+                "swamp",
+                "mountain"
+            ],
+            "id": 518
+        },
+        {
+            "name": "Ziatora's Proving Ground",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "swamp",
+                "mountain",
+                "forest"
+            ],
+            "id": 519
+        },
+        {
+            "name": "Jetmir's Garden",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "mountain",
+                "forest",
+                "plains"
+            ],
+            "id": 520
+        },
+        {
+            "name": "Savai Triome",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "mountain",
+                "plains",
+                "swamp"
+            ],
+            "id": 521
+        },
+        {
+            "name": "Ketria Triome",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "forest",
+                "island",
+                "mountain"
+            ],
+            "id": 522
+        },
+        {
+            "name": "Indatha Triome",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "plains",
+                "swamp",
+                "forest"
+            ],
+            "id": 523
+        },
+        {
+            "name": "Raugrin Triome",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "island",
+                "mountain",
+                "plains"
+            ],
+            "id": 524
+        },
+        {
+            "name": "Zagoth Triome",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "swamp",
+                "forest",
+                "island"
+            ],
+            "id": 525
+        },
+        {
+            "name": "Arid Mesa",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 526
+        },
+        {
+            "name": "Ash Barrens",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 527
+        },
+        {
+            "name": "Bloodstained Mire",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 528
+        },
+        {
+            "name": "Crawling Barrens",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 529
+        },
+        {
+            "name": "Field of Ruin",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 530
+        },
+        {
+            "name": "Flooded Strand",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 531
+        },
+        {
+            "name": "Marsh Flats",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 532
+        },
+        {
+            "name": "Misty Rainforest",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 533
+        },
+        {
+            "name": "Polluted Delta",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 534
+        },
+        {
+            "name": "Scalding Tarn",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 535
+        },
+        {
+            "name": "Scavenger Grounds",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land",
+                "desert"
+            ],
+            "id": 536
+        },
+        {
+            "name": "Spire of Industry",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 537
+        },
+        {
+            "name": "Verdant Catacombs",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 538
+        },
+        {
+            "name": "Windswept Heath",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 539
+        },
+        {
+            "name": "Wooded Foothills",
+            "color": [
+                "colorless"
+            ],
+            "mana_value": 0,
+            "card_types": [
+                "land"
+            ],
+            "id": 540
+        }
     ]
 }
