@@ -1,5 +1,6 @@
 from ..metafile_parsers.cards_parser import CardsParser
 from ..metafile_parsers.decks_parser import DecksParser
+from ..metafile_parsers.games_parser import GamesParser
 from ..card_data.cards_getter import CardsGetter
 from ..game_data.games_runner import GamesRunner
 from ..elo_data.elo_modifier import EloModifier
@@ -13,6 +14,10 @@ class ScriptGatherer:
     @classmethod
     def parse_deck_metafile(cls, )->None:
         DecksParser.parse_metafile()
+    
+    @classmethod
+    def parse_game_metafile(cls, )->None:
+        GamesParser.parse_metafile()
     
     @classmethod
     def print_possible_card_matches(cls, string_to_match:str)->None:

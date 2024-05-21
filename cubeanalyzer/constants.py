@@ -11,3 +11,4 @@ with open('./config.json') as json_config:
 
 CARDS_METAFILE = config_data['cards_metafile']
 DECKS_METAFILE = config_data['decks_metafile']
+GAMES_METAFILE = config_data['games_metafile']
