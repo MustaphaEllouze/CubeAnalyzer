@@ -23,10 +23,10 @@ class GamesParser:
             ) = line.split(cls.DATA_SEPARATOR)
 
             GamesRegister.register_new_game(
-                deck1_id=deck1_id,
-                deck2_id=deck2_id,
-                deck1_wins=d1_wins,
-                deck2_wins=d2_wins,
+                deck1_id=int(deck1_id),
+                deck2_id=int(deck2_id),
+                deck1_wins=int(d1_wins),
+                deck2_wins=int(d2_wins),
             )
 
         GamesRegister.save_database()

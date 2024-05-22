@@ -24,14 +24,14 @@ class GamesRegister:
                 deck2=ElodecksGetter.get_elo_deck_from_id(deck_id=deck2_id),
                 deck1_wins=deck1_wins,
                 deck2_wins=deck2_wins,
-            ).to_json()
+            ).to_json(),
         )
     
     @classmethod
     def save_database(cls, )->None:
-        with open(GAMES_JSON_FILE, 'r') as database:
+        with open(GAMES_JSON_FILE, 'w') as database:
             json.dump(
-                cls.GAMES,
+                {"games":cls.GAMES},
                 database,
                 indent=4,
             )
