@@ -20,6 +20,10 @@ class EloCard(BaseModel):
     def elo(self, )->float:
         return self.tracker.elo
 
+    @property
+    def nb_games_done(self, )->float:
+        return self.tracker.nb_games_done
+
     @classmethod
     def from_card(cls, card:Card)->Self:
         return EloCard(
@@ -31,7 +35,14 @@ class EloCard(BaseModel):
     def from_card_and_elo(cls, card:Card, elo:float)->Self:
         return EloCard(
             card=card,
-            tracker=EloTracker(elo = elo)
+            tracker=EloTracker.initialize_elo().set_elo(elo=elo)
+        )
+    
+    @classmethod
+    def from_card_elo_nbgames(cls, card:Card, elo:float, nb_games:int)->Self:
+        return EloCard(
+            card=card,
+            tracker=EloTracker(elo=elo,nb_games_done=nb_games)
         )
 
     def update_elo(
@@ -41,22 +52,15 @@ class EloCard(BaseModel):
     )->None:
         self.tracker.update_elo(target_elo=target_elo, ascending=ascending)
     
-    @classmethod
-    def compute_update_elo(
-        cls,
-        winner : Self,
-        loser : Self,
-    )->None:
-        EloTracker.compute_and_update(
-            winner=winner.tracker,
-            loser=loser.tracker,
-        )
-    
     def to_json(self, )->dict[str, int|float]:
         return {
             "id" : self.id,
             "elo" : self.elo,
+            "nb_games_done" : self.nb_games_done
         }
     
     def set_elo(self, target:float)->None:
         self.tracker.set_elo(target=target)
+    
+    def update_games_done(self, nb_games_done:int)->None:
+        self.tracker.set_nb_games(nb_games_done)

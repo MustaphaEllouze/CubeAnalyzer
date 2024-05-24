@@ -18,9 +18,10 @@ class EloCardsConstructor :
 
         # Iterable of elo cards
         elocards = tuple(
-            EloCard.from_card_and_elo(
+            EloCard.from_card_elo_nbgames(
                 card=CardsGetter.get_card_from_id(card_id=c.get('id', None)),
-                elo=c.get('elo', None)
+                elo=c.get('elo', None),
+                nb_games=c.get('nb_games_done',None),
             )
             for c in data
         )
