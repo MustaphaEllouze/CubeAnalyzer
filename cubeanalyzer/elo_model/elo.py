@@ -28,7 +28,7 @@ class EloTracker(BaseModel):
         cls,
         probability:float,
     )->float:
-        assert 0. < probability < 1.
+        assert 0. < probability < 1., probability
 
         # The modeling law is computed such as a card that if the difference
         # between ELOs is equal to the OFFSET, than there is a 1-THRESHOLD chance the 

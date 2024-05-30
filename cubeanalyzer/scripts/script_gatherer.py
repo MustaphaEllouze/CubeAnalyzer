@@ -33,5 +33,5 @@ class ScriptGatherer:
     @classmethod
     def compile_game_results(cls, )->None:
         GamesRunner.run_all_games()
-        EloModifier.set_elo_distribution()
+        # EloModifier.set_elo_distribution()
         EloModifier.update_json_elo_cards()

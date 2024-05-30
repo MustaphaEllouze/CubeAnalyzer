@@ -24,8 +24,8 @@ class EloDeck(BaseModel):
         nb_games_loser = int(sum([c.nb_games_done for c in loser.deck])/len(loser.deck))
 
         # Pseudo trackers
-        t1 = EloTracker(winner.elo, nb_games_done=nb_games_winner)
-        t2 = EloTracker(loser.elo, nb_games_done=nb_games_loser)
+        t1 = EloTracker(elo=winner.elo, nb_games_done=nb_games_winner)
+        t2 = EloTracker(elo=loser.elo, nb_games_done=nb_games_loser)
 
         EloTracker.update_knowledge_one_game(t1, t2, True)
 

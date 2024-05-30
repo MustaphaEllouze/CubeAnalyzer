@@ -50,7 +50,7 @@ class EloCard(BaseModel):
             target_elo:float,
             ascending:bool,
     )->None:
-        self.tracker.update_elo(target_elo=target_elo, ascending=ascending)
+        self.tracker.update_towards_this(target=target_elo, ascending=ascending)
     
     def to_json(self, )->dict[str, int|float]:
         return {
@@ -60,7 +60,7 @@ class EloCard(BaseModel):
         }
     
     def set_elo(self, target:float)->None:
-        self.tracker.set_elo(target=target)
+        self.tracker.set_elo(elo=target)
     
     def update_games_done(self, nb_games_done:int)->None:
         self.tracker.set_nb_games(nb_games_done)
