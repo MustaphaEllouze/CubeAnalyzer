@@ -5,6 +5,12 @@
             "deck2_id": 2,
             "deck1_wins": 2,
             "deck2_wins": 1
+        },
+        {
+            "deck1_id": 3,
+            "deck2_id": 4,
+            "deck1_wins": 2,
+            "deck2_wins": 0
         }
     ]
 }
