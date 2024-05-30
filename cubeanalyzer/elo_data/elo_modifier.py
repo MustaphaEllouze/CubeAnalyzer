@@ -2,7 +2,7 @@ import json
 
 from ..constants import CARD_ELO_COMPILED_JSON_FILE
 from ..elo_data.elocards_getter import ElocardsGetter
-from ..elo_model.elo import STARTING_ELO, MAX_OFFSET
+from ..elo_model.elo import EloConstants
 
 class EloModifier:
     
@@ -37,8 +37,8 @@ class EloModifier:
     @classmethod
     def set_elo_distribution(
         cls,
-        target_mean:float=STARTING_ELO,
-        target_standard_deviation:float=0.5*MAX_OFFSET,
+        target_mean:float=EloConstants.STARTING_ELO,
+        target_standard_deviation:float=0.5*EloConstants.OFFSET,
     )->None:
         
         all_elo_cards = ElocardsGetter.get_all_cards()
