@@ -30,20 +30,19 @@ class EloDeck(BaseModel):
         EloTracker.update_knowledge_one_game(t1, t2, True)
 
         # get new elos
-        winner_mean_elo = t1.elo
-        loser_mean_elo = t2.elo
-
+        difference_winner = t1.elo-winner.elo
+        difference_loser = t2.elo-loser.elo
 
         for cw in winner.deck:
             cw.update_elo(
-                target_elo=cw.elo+(winner_mean_elo-winner.elo),
+                target_elo=cw.elo+difference_winner,
                 ascending=True
             )
             cw.update_games_done(cw.nb_games_done+1)
 
         for cl in loser.deck:
             cl.update_elo(
-                target_elo=cl.elo+(loser_mean_elo-loser.elo),
+                target_elo=cl.elo+difference_loser,
                 ascending=False
             )
             cl.update_games_done(cl.nb_games_done+1)
