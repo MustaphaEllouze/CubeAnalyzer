@@ -23,6 +23,66 @@
             "deck2_id": 1,
             "deck1_wins": 1,
             "deck2_wins": 0
+        },
+        {
+            "deck1_id": 8,
+            "deck2_id": 11,
+            "deck1_wins": 0,
+            "deck2_wins": 1
+        },
+        {
+            "deck1_id": 8,
+            "deck2_id": 9,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 8,
+            "deck2_id": 10,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 9,
+            "deck2_id": 11,
+            "deck1_wins": 0,
+            "deck2_wins": 1
+        },
+        {
+            "deck1_id": 9,
+            "deck2_id": 12,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 11,
+            "deck2_id": 7,
+            "deck1_wins": 0,
+            "deck2_wins": 1
+        },
+        {
+            "deck1_id": 10,
+            "deck2_id": 14,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 14,
+            "deck2_id": 13,
+            "deck1_wins": 0,
+            "deck2_wins": 1
+        },
+        {
+            "deck1_id": 7,
+            "deck2_id": 13,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 7,
+            "deck2_id": 12,
+            "deck1_wins": 1,
+            "deck2_wins": 0
         }
     ]
 }
