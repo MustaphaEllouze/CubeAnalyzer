@@ -28,3 +28,6 @@ class GamesRunner :
                 deck1_wins=g.get('deck1_wins', None),
                 deck2_wins=g.get('deck2_wins'),
             )
+
+# Run all games to update the elo automatically
+GamesRunner.run_all_games()

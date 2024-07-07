@@ -65,15 +65,12 @@ class ScriptsLauncher:
             string_to_match=arguments.id,
         )
         if arguments.compile : 
-            ScriptGatherer.run_game_results()
             ScriptGatherer.update_json_elo_cards()
         if arguments.elo : 
-            ScriptGatherer.run_game_results()
             ScriptGatherer.print_best_elo_cards(
             number = int(arguments.elo),
         )
         if arguments.mean_elo:
-            ScriptGatherer.run_game_results()
             ScriptGatherer.print_mean_elo_per_color()
 
 if __name__ == '__main__':
