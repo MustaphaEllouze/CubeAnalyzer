@@ -2,6 +2,7 @@ from pydantic import BaseModel
 from typing import Self
 
 from ..card_model.card import Card
+from ..card_model.colors import Color
 from .elo import EloTracker
 
 class EloCard(BaseModel):
@@ -23,6 +24,10 @@ class EloCard(BaseModel):
     @property
     def nb_games_done(self, )->float:
         return self.tracker.nb_games_done
+
+    @property
+    def color(self, )->tuple[Color, ...]:
+        return self.card.color
 
     @classmethod
     def from_card(cls, card:Card)->Self:

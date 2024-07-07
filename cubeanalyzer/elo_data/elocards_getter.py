@@ -2,6 +2,7 @@ import json
 
 from ..constants import CARD_ELO_JSON_FILE
 from ..card_data.cards_getter import CardsGetter
+from ..card_model.colors import Color
 from ..elo_model.elo_card import EloCard
 from .elocards_constructor import EloCardsConstructor
 
@@ -42,6 +43,17 @@ class ElocardsGetter :
         cls,
     )->tuple[EloCard]:
         return cls.CARDS
+
+    @classmethod
+    def get_all_cards_of_color(
+        cls,
+        color:Color,
+    )->tuple[EloCard]:
+        return tuple(
+            ec
+            for ec in cls.get_all_cards()
+            if color in ec.color
+        )
     
     @classmethod
     def add_card_to_database_from_data(

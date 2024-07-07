@@ -5,6 +5,8 @@ from ..card_data.cards_getter import CardsGetter
 from ..game_data.games_runner import GamesRunner
 from ..elo_data.elo_modifier import EloModifier
 from ..elo_data.elocards_getter import ElocardsGetter
+from ..elo_model.elo import EloConstants
+from ..card_model.colors import Color
 
 class ScriptGatherer:
 
@@ -55,3 +57,18 @@ class ScriptGatherer:
 
         for sec in sorted_elo_cards[:abs(number)]:
             print(f'    | {sec.name} | ELO = {sec.elo}')
+    
+    @classmethod
+    def print_mean_elo_per_color(cls, )->None:
+        cards_by_color = {
+            c:ElocardsGetter.get_all_cards_of_color(color=c)
+            for c in Color
+        }
+
+        print(f'Mean elo per color')
+        for c,cards in cards_by_color.items():
+            # mean_elo = sum([c.elo for c in cards])/len(cards)
+            elo_of_cards_that_were_played_once = [c.elo for c in cards if c.elo!=EloConstants.STARTING_ELO]
+            mean_elo = sum(elo_of_cards_that_were_played_once)/len(elo_of_cards_that_were_played_once)
+            print(f'    | {c.name.capitalize()} | ELO = {mean_elo}')
+            

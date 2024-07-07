@@ -46,6 +46,12 @@ class ScriptsLauncher:
             metavar='N'
         )
 
+        parser.add_argument(
+            '-m', '--mean_elo',
+            help='Print the mean elo for each color',
+            action='store_true',
+        )
+
         return parser.parse_args()
     
     @classmethod
@@ -66,6 +72,9 @@ class ScriptsLauncher:
             ScriptGatherer.print_best_elo_cards(
             number = int(arguments.elo),
         )
+        if arguments.mean_elo:
+            ScriptGatherer.run_game_results()
+            ScriptGatherer.print_mean_elo_per_color()
 
 if __name__ == '__main__':
     ScriptsLauncher.run_scripts()
