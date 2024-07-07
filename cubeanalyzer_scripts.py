@@ -40,6 +40,12 @@ class ScriptsLauncher:
             help='Prints the possible name and ID for the given card name.'
         )
 
+        parser.add_argument(
+            '-e', '--elo',
+            help='Print the best N cards, or the worst N cards',
+            metavar='N'
+        )
+
         return parser.parse_args()
     
     @classmethod
@@ -50,9 +56,16 @@ class ScriptsLauncher:
         if arguments.decks : ScriptGatherer.parse_deck_metafile()
         if arguments.games : ScriptGatherer.parse_game_metafile()
         if arguments.id    : ScriptGatherer.print_possible_card_matches(
-            string_to_match=arguments.id
+            string_to_match=arguments.id,
         )
-        if arguments.compile : ScriptGatherer.compile_game_results()
+        if arguments.compile : 
+            ScriptGatherer.run_game_results()
+            ScriptGatherer.update_json_elo_cards()
+        if arguments.elo : 
+            ScriptGatherer.run_game_results()
+            ScriptGatherer.print_best_elo_cards(
+            number = int(arguments.elo),
+        )
 
 if __name__ == '__main__':
     ScriptsLauncher.run_scripts()

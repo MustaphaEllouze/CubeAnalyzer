@@ -4,6 +4,7 @@ from ..metafile_parsers.games_parser import GamesParser
 from ..card_data.cards_getter import CardsGetter
 from ..game_data.games_runner import GamesRunner
 from ..elo_data.elo_modifier import EloModifier
+from ..elo_data.elocards_getter import ElocardsGetter
 
 class ScriptGatherer:
 
@@ -31,7 +32,26 @@ class ScriptGatherer:
             print(f'    | {pm.name} | ID = {pm.id}')
     
     @classmethod
-    def compile_game_results(cls, )->None:
+    def run_game_results(cls, )->None:
         GamesRunner.run_all_games()
-        # EloModifier.set_elo_distribution()
+    
+    @classmethod
+    def update_json_elo_cards(cls, )->None:
         EloModifier.update_json_elo_cards()
+    
+    @classmethod
+    def print_best_elo_cards(cls, number:int)->None:
+        elo_cards = ElocardsGetter.get_all_cards()
+        
+        sorted_elo_cards = sorted(
+            elo_cards,
+            key=lambda c : c.elo,
+            reverse = number>0
+        )
+        
+        print(
+            f'{"Best" if number > 0 else "Worse"} {abs(number)} cards sorted by elo'
+        )
+
+        for sec in sorted_elo_cards[:abs(number)]:
+            print(f'    | {sec.name} | ELO = {sec.elo}')
