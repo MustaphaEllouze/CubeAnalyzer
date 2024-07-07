@@ -27,7 +27,8 @@ class EloModifier:
                 "cards" : [
                     {
                         "id" : c.id,
-                        "elo" : c.elo
+                        "elo" : c.elo,
+                        "nb_games_done" : c.nb_games_done,
                     }
                     for c in ElocardsGetter.get_all_cards()
                 ]
