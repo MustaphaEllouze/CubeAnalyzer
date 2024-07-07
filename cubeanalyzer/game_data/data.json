@@ -83,6 +83,36 @@
             "deck2_id": 12,
             "deck1_wins": 1,
             "deck2_wins": 0
+        },
+        {
+            "deck1_id": 15,
+            "deck2_id": 16,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 15,
+            "deck2_id": 18,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 15,
+            "deck2_id": 17,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 16,
+            "deck2_id": 19,
+            "deck1_wins": 1,
+            "deck2_wins": 0
+        },
+        {
+            "deck1_id": 18,
+            "deck2_id": 19,
+            "deck1_wins": 0,
+            "deck2_wins": 1
         }
     ]
 }
