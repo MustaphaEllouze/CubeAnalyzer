@@ -21,6 +21,10 @@ CARD 2
 ...
 ```
 
+```
+game/ID1/ID2/WinsDeck1/WinsDeck2
+```
+
 ## TODO
 * [ ] Add way to visualize the data simply
 * [ ] Add data-processing functions (ELO per type, per mv etc.)

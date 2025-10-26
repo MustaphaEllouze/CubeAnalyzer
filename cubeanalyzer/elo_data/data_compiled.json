@@ -13,12 +13,12 @@
         {
             "id": 3,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 4,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 5,
@@ -27,8 +27,8 @@
         },
         {
             "id": 6,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 7,
@@ -38,7 +38,7 @@
         {
             "id": 8,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 9,
@@ -52,23 +52,23 @@
         },
         {
             "id": 11,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 12,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 13,
-            "elo": 1025.0,
-            "nb_games_done": 2
+            "elo": 1000.0,
+            "nb_games_done": 5
         },
         {
             "id": 14,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 15,
@@ -83,22 +83,22 @@
         {
             "id": 17,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 18,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 19,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 20,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 21,
@@ -107,8 +107,8 @@
         },
         {
             "id": 22,
-            "elo": 925.0,
-            "nb_games_done": 4
+            "elo": 1000.0,
+            "nb_games_done": 7
         },
         {
             "id": 23,
@@ -122,8 +122,8 @@
         },
         {
             "id": 25,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 950.0,
+            "nb_games_done": 7
         },
         {
             "id": 26,
@@ -142,8 +142,8 @@
         },
         {
             "id": 29,
-            "elo": 1000.0,
-            "nb_games_done": 5
+            "elo": 1075.0,
+            "nb_games_done": 8
         },
         {
             "id": 30,
@@ -162,8 +162,8 @@
         },
         {
             "id": 33,
-            "elo": 1025.0,
-            "nb_games_done": 2
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 34,
@@ -172,8 +172,8 @@
         },
         {
             "id": 35,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 950.0,
+            "nb_games_done": 7
         },
         {
             "id": 36,
@@ -182,8 +182,8 @@
         },
         {
             "id": 37,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 38,
@@ -197,18 +197,18 @@
         },
         {
             "id": 40,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 41,
             "elo": 1000.0,
-            "nb_games_done": 5
+            "nb_games_done": 7
         },
         {
             "id": 42,
             "elo": 1025.0,
-            "nb_games_done": 6
+            "nb_games_done": 8
         },
         {
             "id": 43,
@@ -217,8 +217,8 @@
         },
         {
             "id": 44,
-            "elo": 1000.0,
-            "nb_games_done": 5
+            "elo": 1075.0,
+            "nb_games_done": 8
         },
         {
             "id": 45,
@@ -227,13 +227,13 @@
         },
         {
             "id": 46,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 47,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 48,
@@ -272,8 +272,8 @@
         },
         {
             "id": 55,
-            "elo": 1025.0,
-            "nb_games_done": 6
+            "elo": 1100.0,
+            "nb_games_done": 9
         },
         {
             "id": 56,
@@ -282,13 +282,13 @@
         },
         {
             "id": 57,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 58,
-            "elo": 1050.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 59,
@@ -322,8 +322,8 @@
         },
         {
             "id": 65,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 66,
@@ -367,8 +367,8 @@
         },
         {
             "id": 74,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 75,
@@ -387,18 +387,18 @@
         },
         {
             "id": 78,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 79,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 80,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 81,
@@ -417,8 +417,8 @@
         },
         {
             "id": 84,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 85,
@@ -432,8 +432,8 @@
         },
         {
             "id": 87,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1000.0,
+            "nb_games_done": 7
         },
         {
             "id": 88,
@@ -447,13 +447,13 @@
         },
         {
             "id": 90,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 91,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 92,
@@ -462,13 +462,13 @@
         },
         {
             "id": 93,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 94,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 950.0,
+            "nb_games_done": 7
         },
         {
             "id": 95,
@@ -482,13 +482,13 @@
         },
         {
             "id": 97,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 98,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 99,
@@ -502,8 +502,8 @@
         },
         {
             "id": 101,
-            "elo": 950.0,
-            "nb_games_done": 5
+            "elo": 1000.0000000000001,
+            "nb_games_done": 9
         },
         {
             "id": 102,
@@ -517,8 +517,8 @@
         },
         {
             "id": 104,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 950.0,
+            "nb_games_done": 7
         },
         {
             "id": 105,
@@ -532,13 +532,13 @@
         },
         {
             "id": 107,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 108,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 109,
@@ -547,13 +547,13 @@
         },
         {
             "id": 110,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 111,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 112,
@@ -567,13 +567,13 @@
         },
         {
             "id": 114,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 115,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 116,
@@ -592,13 +592,13 @@
         },
         {
             "id": 119,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 120,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 121,
@@ -607,8 +607,8 @@
         },
         {
             "id": 122,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 123,
@@ -617,8 +617,8 @@
         },
         {
             "id": 124,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 950.0,
+            "nb_games_done": 7
         },
         {
             "id": 125,
@@ -632,13 +632,13 @@
         },
         {
             "id": 127,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 128,
-            "elo": 950.0,
-            "nb_games_done": 5
+            "elo": 1025.0,
+            "nb_games_done": 8
         },
         {
             "id": 129,
@@ -647,13 +647,13 @@
         },
         {
             "id": 130,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 131,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 132,
@@ -662,28 +662,28 @@
         },
         {
             "id": 133,
-            "elo": 1000.0,
-            "nb_games_done": 5
+            "elo": 1075.0,
+            "nb_games_done": 8
         },
         {
             "id": 134,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 135,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 136,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 137,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 138,
@@ -697,8 +697,8 @@
         },
         {
             "id": 140,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 141,
@@ -712,8 +712,8 @@
         },
         {
             "id": 143,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1100.0,
+            "nb_games_done": 7
         },
         {
             "id": 144,
@@ -722,8 +722,8 @@
         },
         {
             "id": 145,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 146,
@@ -752,8 +752,8 @@
         },
         {
             "id": 151,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 152,
@@ -782,8 +782,8 @@
         },
         {
             "id": 157,
-            "elo": 1000.0,
-            "nb_games_done": 7
+            "elo": 975.0,
+            "nb_games_done": 10
         },
         {
             "id": 158,
@@ -802,8 +802,8 @@
         },
         {
             "id": 161,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 162,
@@ -872,8 +872,8 @@
         },
         {
             "id": 175,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 176,
@@ -907,8 +907,8 @@
         },
         {
             "id": 182,
-            "elo": 1025.0,
-            "nb_games_done": 2
+            "elo": 1000.0,
+            "nb_games_done": 5
         },
         {
             "id": 183,
@@ -967,13 +967,13 @@
         },
         {
             "id": 194,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 195,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1025.0,
+            "nb_games_done": 4
         },
         {
             "id": 196,
@@ -992,8 +992,8 @@
         },
         {
             "id": 199,
-            "elo": 1075.0,
-            "nb_games_done": 4
+            "elo": 1100.0,
+            "nb_games_done": 7
         },
         {
             "id": 200,
@@ -1007,8 +1007,8 @@
         },
         {
             "id": 202,
-            "elo": 1050.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 203,
@@ -1052,8 +1052,8 @@
         },
         {
             "id": 211,
-            "elo": 1075.0,
-            "nb_games_done": 4
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 212,
@@ -1067,8 +1067,8 @@
         },
         {
             "id": 214,
-            "elo": 1025.0,
-            "nb_games_done": 2
+            "elo": 1000.0,
+            "nb_games_done": 5
         },
         {
             "id": 215,
@@ -1087,13 +1087,13 @@
         },
         {
             "id": 218,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 219,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 220,
@@ -1117,8 +1117,8 @@
         },
         {
             "id": 224,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 225,
@@ -1127,8 +1127,8 @@
         },
         {
             "id": 226,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 227,
@@ -1183,12 +1183,12 @@
         {
             "id": 237,
             "elo": 1050.0,
-            "nb_games_done": 5
+            "nb_games_done": 7
         },
         {
             "id": 238,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 974.9999999999999,
+            "nb_games_done": 6
         },
         {
             "id": 239,
@@ -1197,8 +1197,8 @@
         },
         {
             "id": 240,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 241,
@@ -1227,8 +1227,8 @@
         },
         {
             "id": 246,
-            "elo": 1000.0,
-            "nb_games_done": 5
+            "elo": 975.0,
+            "nb_games_done": 8
         },
         {
             "id": 247,
@@ -1258,12 +1258,12 @@
         {
             "id": 252,
             "elo": 1100.0,
-            "nb_games_done": 9
+            "nb_games_done": 11
         },
         {
             "id": 253,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 254,
@@ -1303,7 +1303,7 @@
         {
             "id": 261,
             "elo": 1025.0,
-            "nb_games_done": 4
+            "nb_games_done": 6
         },
         {
             "id": 262,
@@ -1313,7 +1313,7 @@
         {
             "id": 263,
             "elo": 1050.0,
-            "nb_games_done": 7
+            "nb_games_done": 9
         },
         {
             "id": 264,
@@ -1327,8 +1327,8 @@
         },
         {
             "id": 266,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 267,
@@ -1372,8 +1372,8 @@
         },
         {
             "id": 275,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1075.0,
+            "nb_games_done": 8
         },
         {
             "id": 276,
@@ -1393,7 +1393,7 @@
         {
             "id": 279,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 280,
@@ -1402,8 +1402,8 @@
         },
         {
             "id": 281,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 282,
@@ -1417,8 +1417,8 @@
         },
         {
             "id": 284,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 900.0,
+            "nb_games_done": 5
         },
         {
             "id": 285,
@@ -1432,8 +1432,8 @@
         },
         {
             "id": 287,
-            "elo": 1100.0,
-            "nb_games_done": 7
+            "elo": 1025.0,
+            "nb_games_done": 10
         },
         {
             "id": 288,
@@ -1447,8 +1447,8 @@
         },
         {
             "id": 290,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 291,
@@ -1457,13 +1457,13 @@
         },
         {
             "id": 292,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1000.0000000000001,
+            "nb_games_done": 7
         },
         {
             "id": 293,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 294,
@@ -1492,8 +1492,8 @@
         },
         {
             "id": 299,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 300,
@@ -1502,53 +1502,53 @@
         },
         {
             "id": 301,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 302,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 1000.0,
+            "nb_games_done": 5
         },
         {
             "id": 303,
             "elo": 1000.0,
-            "nb_games_done": 3
+            "nb_games_done": 5
         },
         {
             "id": 304,
-            "elo": 1050.0,
-            "nb_games_done": 5
+            "elo": 1025.0,
+            "nb_games_done": 8
         },
         {
             "id": 305,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 306,
-            "elo": 1025.0,
-            "nb_games_done": 6
+            "elo": 1050.0,
+            "nb_games_done": 9
         },
         {
             "id": 307,
-            "elo": 950.0,
-            "nb_games_done": 5
+            "elo": 949.9999999999999,
+            "nb_games_done": 7
         },
         {
             "id": 308,
-            "elo": 975.0,
-            "nb_games_done": 6
+            "elo": 1000.0,
+            "nb_games_done": 9
         },
         {
             "id": 309,
             "elo": 1025.0,
-            "nb_games_done": 6
+            "nb_games_done": 8
         },
         {
             "id": 310,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 1025.0,
+            "nb_games_done": 8
         },
         {
             "id": 311,
@@ -1562,8 +1562,8 @@
         },
         {
             "id": 313,
-            "elo": 1075.0,
-            "nb_games_done": 4
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 314,
@@ -1587,8 +1587,8 @@
         },
         {
             "id": 318,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 319,
@@ -1597,13 +1597,13 @@
         },
         {
             "id": 320,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 321,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 322,
@@ -1613,12 +1613,12 @@
         {
             "id": 323,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 324,
-            "elo": 1075.0,
-            "nb_games_done": 6
+            "elo": 1100.0,
+            "nb_games_done": 9
         },
         {
             "id": 325,
@@ -1632,23 +1632,23 @@
         },
         {
             "id": 327,
-            "elo": 1000.0,
-            "nb_games_done": 1
-        },
-        {
-            "id": 328,
             "elo": 1050.0,
             "nb_games_done": 5
         },
         {
+            "id": 328,
+            "elo": 1025.0,
+            "nb_games_done": 8
+        },
+        {
             "id": 329,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 330,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 331,
@@ -1657,13 +1657,13 @@
         },
         {
             "id": 332,
-            "elo": 1050.0,
-            "nb_games_done": 5
+            "elo": 1100.0,
+            "nb_games_done": 9
         },
         {
             "id": 333,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 334,
@@ -1672,13 +1672,13 @@
         },
         {
             "id": 335,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 336,
-            "elo": 900.0,
-            "nb_games_done": 5
+            "elo": 875.0,
+            "nb_games_done": 8
         },
         {
             "id": 337,
@@ -1692,8 +1692,8 @@
         },
         {
             "id": 339,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 340,
@@ -1707,8 +1707,8 @@
         },
         {
             "id": 342,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 1000.0,
+            "nb_games_done": 7
         },
         {
             "id": 343,
@@ -1727,13 +1727,13 @@
         },
         {
             "id": 346,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 347,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 348,
@@ -1757,8 +1757,8 @@
         },
         {
             "id": 352,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 353,
@@ -1767,13 +1767,13 @@
         },
         {
             "id": 354,
-            "elo": 975.0,
-            "nb_games_done": 6
+            "elo": 1000.0,
+            "nb_games_done": 9
         },
         {
             "id": 355,
-            "elo": 925.0,
-            "nb_games_done": 4
+            "elo": 900.0,
+            "nb_games_done": 7
         },
         {
             "id": 356,
@@ -1787,8 +1787,8 @@
         },
         {
             "id": 358,
-            "elo": 900.0,
-            "nb_games_done": 5
+            "elo": 925.0,
+            "nb_games_done": 8
         },
         {
             "id": 359,
@@ -1807,8 +1807,8 @@
         },
         {
             "id": 362,
-            "elo": 900.0,
-            "nb_games_done": 5
+            "elo": 950.0000000000001,
+            "nb_games_done": 9
         },
         {
             "id": 363,
@@ -1823,7 +1823,7 @@
         {
             "id": 365,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 366,
@@ -1832,18 +1832,18 @@
         },
         {
             "id": 367,
-            "elo": 1075.0,
-            "nb_games_done": 6
+            "elo": 1100.0,
+            "nb_games_done": 9
         },
         {
             "id": 368,
-            "elo": 925.0,
-            "nb_games_done": 4
+            "elo": 900.0,
+            "nb_games_done": 7
         },
         {
             "id": 369,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1000.0000000000001,
+            "nb_games_done": 7
         },
         {
             "id": 370,
@@ -1882,28 +1882,28 @@
         },
         {
             "id": 377,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1100.0,
+            "nb_games_done": 7
         },
         {
             "id": 378,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1100.0,
+            "nb_games_done": 7
         },
         {
             "id": 379,
-            "elo": 1000.0,
-            "nb_games_done": 1
-        },
-        {
-            "id": 380,
-            "elo": 975.0,
+            "elo": 925.0,
             "nb_games_done": 4
         },
         {
+            "id": 380,
+            "elo": 1050.0,
+            "nb_games_done": 7
+        },
+        {
             "id": 381,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 382,
@@ -1937,8 +1937,8 @@
         },
         {
             "id": 388,
-            "elo": 1150.0,
-            "nb_games_done": 7
+            "elo": 1125.0,
+            "nb_games_done": 10
         },
         {
             "id": 389,
@@ -1947,28 +1947,28 @@
         },
         {
             "id": 390,
-            "elo": 1075.0,
-            "nb_games_done": 4
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 391,
-            "elo": 1000.0,
-            "nb_games_done": 1
-        },
-        {
-            "id": 392,
-            "elo": 1075.0,
+            "elo": 975.0,
             "nb_games_done": 4
         },
         {
+            "id": 392,
+            "elo": 1050.0,
+            "nb_games_done": 7
+        },
+        {
             "id": 393,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 394,
-            "elo": 1000.0,
-            "nb_games_done": 5
+            "elo": 1050.0,
+            "nb_games_done": 9
         },
         {
             "id": 395,
@@ -1987,8 +1987,8 @@
         },
         {
             "id": 398,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1000.0000000000001,
+            "nb_games_done": 7
         },
         {
             "id": 399,
@@ -1998,22 +1998,22 @@
         {
             "id": 400,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 401,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1025.0,
+            "nb_games_done": 4
         },
         {
             "id": 402,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1025.0,
+            "nb_games_done": 4
         },
         {
             "id": 403,
             "elo": 1050.0,
-            "nb_games_done": 3
+            "nb_games_done": 5
         },
         {
             "id": 404,
@@ -2022,8 +2022,8 @@
         },
         {
             "id": 405,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 406,
@@ -2047,8 +2047,8 @@
         },
         {
             "id": 410,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 1000.0,
+            "nb_games_done": 7
         },
         {
             "id": 411,
@@ -2062,8 +2062,8 @@
         },
         {
             "id": 413,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 414,
@@ -2077,8 +2077,8 @@
         },
         {
             "id": 416,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 417,
@@ -2092,8 +2092,8 @@
         },
         {
             "id": 419,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 420,
@@ -2107,8 +2107,8 @@
         },
         {
             "id": 422,
-            "elo": 1000.0,
-            "nb_games_done": 5
+            "elo": 1025.0,
+            "nb_games_done": 8
         },
         {
             "id": 423,
@@ -2117,13 +2117,13 @@
         },
         {
             "id": 424,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 425,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 426,
@@ -2132,8 +2132,8 @@
         },
         {
             "id": 427,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 428,
@@ -2142,33 +2142,33 @@
         },
         {
             "id": 429,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 430,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 431,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 432,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 433,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 950.0,
+            "nb_games_done": 5
         },
         {
             "id": 434,
-            "elo": 925.0,
-            "nb_games_done": 4
+            "elo": 900.0,
+            "nb_games_done": 7
         },
         {
             "id": 435,
@@ -2192,18 +2192,18 @@
         },
         {
             "id": 439,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 440,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 441,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 442,
@@ -2217,8 +2217,8 @@
         },
         {
             "id": 444,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 975.0,
+            "nb_games_done": 6
         },
         {
             "id": 445,
@@ -2227,33 +2227,33 @@
         },
         {
             "id": 446,
-            "elo": 925.0,
-            "nb_games_done": 4
+            "elo": 900.0,
+            "nb_games_done": 7
         },
         {
             "id": 447,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 448,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 449,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 900.0,
+            "nb_games_done": 5
         },
         {
             "id": 450,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1050.0,
+            "nb_games_done": 7
         },
         {
             "id": 451,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 452,
@@ -2262,8 +2262,8 @@
         },
         {
             "id": 453,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 454,
@@ -2282,13 +2282,13 @@
         },
         {
             "id": 457,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1075.0,
+            "nb_games_done": 8
         },
         {
             "id": 458,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 459,
@@ -2302,8 +2302,8 @@
         },
         {
             "id": 461,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 462,
@@ -2317,8 +2317,8 @@
         },
         {
             "id": 464,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 465,
@@ -2337,18 +2337,18 @@
         },
         {
             "id": 468,
-            "elo": 1025.0,
-            "nb_games_done": 2
+            "elo": 1000.0,
+            "nb_games_done": 5
         },
         {
             "id": 469,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 470,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 471,
@@ -2362,8 +2362,8 @@
         },
         {
             "id": 473,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 474,
@@ -2377,13 +2377,13 @@
         },
         {
             "id": 476,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 1100.0,
+            "nb_games_done": 7
         },
         {
             "id": 477,
-            "elo": 1025.0,
-            "nb_games_done": 4
+            "elo": 950.0,
+            "nb_games_done": 7
         },
         {
             "id": 478,
@@ -2422,18 +2422,18 @@
         },
         {
             "id": 485,
-            "elo": 1075.0,
-            "nb_games_done": 6
+            "elo": 1050.0,
+            "nb_games_done": 9
         },
         {
             "id": 486,
-            "elo": 1075.0,
-            "nb_games_done": 6
+            "elo": 1050.0,
+            "nb_games_done": 9
         },
         {
             "id": 487,
-            "elo": 1075.0,
-            "nb_games_done": 6
+            "elo": 1050.0,
+            "nb_games_done": 9
         },
         {
             "id": 488,
@@ -2447,33 +2447,33 @@
         },
         {
             "id": 490,
-            "elo": 1050.0,
-            "nb_games_done": 5
+            "elo": 1100.0,
+            "nb_games_done": 9
         },
         {
             "id": 491,
-            "elo": 925.0,
-            "nb_games_done": 4
+            "elo": 924.9999999999999,
+            "nb_games_done": 6
         },
         {
             "id": 492,
-            "elo": 1050.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 493,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 494,
             "elo": 1000.0,
-            "nb_games_done": 1
+            "nb_games_done": 3
         },
         {
             "id": 495,
-            "elo": 975.0,
-            "nb_games_done": 2
+            "elo": 974.9999999999999,
+            "nb_games_done": 4
         },
         {
             "id": 496,
@@ -2487,8 +2487,8 @@
         },
         {
             "id": 498,
-            "elo": 1025.0,
-            "nb_games_done": 2
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 499,
@@ -2497,8 +2497,8 @@
         },
         {
             "id": 500,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 501,
@@ -2507,8 +2507,8 @@
         },
         {
             "id": 502,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1025.0,
+            "nb_games_done": 6
         },
         {
             "id": 503,
@@ -2517,8 +2517,8 @@
         },
         {
             "id": 504,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 1000.0,
+            "nb_games_done": 7
         },
         {
             "id": 505,
@@ -2527,23 +2527,23 @@
         },
         {
             "id": 506,
-            "elo": 975.0,
-            "nb_games_done": 4
+            "elo": 1000.0,
+            "nb_games_done": 7
         },
         {
             "id": 507,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1025.0,
+            "nb_games_done": 4
         },
         {
             "id": 508,
             "elo": 1025.0,
-            "nb_games_done": 2
+            "nb_games_done": 4
         },
         {
             "id": 509,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 925.0,
+            "nb_games_done": 4
         },
         {
             "id": 510,
@@ -2552,43 +2552,43 @@
         },
         {
             "id": 511,
-            "elo": 975.0,
-            "nb_games_done": 6
+            "elo": 1050.0,
+            "nb_games_done": 9
         },
         {
             "id": 512,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 1000.0000000000001,
+            "nb_games_done": 7
         },
         {
             "id": 513,
-            "elo": 950.0,
-            "nb_games_done": 5
+            "elo": 925.0,
+            "nb_games_done": 8
         },
         {
             "id": 514,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 515,
-            "elo": 950.0,
-            "nb_games_done": 3
-        },
-        {
-            "id": 516,
-            "elo": 1000.0,
-            "nb_games_done": 3
-        },
-        {
-            "id": 517,
-            "elo": 1025.0,
+            "elo": 925.0,
             "nb_games_done": 6
         },
         {
+            "id": 516,
+            "elo": 1050.0,
+            "nb_games_done": 7
+        },
+        {
+            "id": 517,
+            "elo": 950.0,
+            "nb_games_done": 9
+        },
+        {
             "id": 518,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1075.0,
+            "nb_games_done": 4
         },
         {
             "id": 519,
@@ -2607,18 +2607,18 @@
         },
         {
             "id": 522,
-            "elo": 950.0,
-            "nb_games_done": 5
+            "elo": 1025.0,
+            "nb_games_done": 8
         },
         {
             "id": 523,
-            "elo": 1050.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 524,
-            "elo": 1000.0,
-            "nb_games_done": 3
+            "elo": 925.0,
+            "nb_games_done": 6
         },
         {
             "id": 525,
@@ -2628,7 +2628,7 @@
         {
             "id": 526,
             "elo": 1025.0,
-            "nb_games_done": 6
+            "nb_games_done": 8
         },
         {
             "id": 527,
@@ -2642,8 +2642,8 @@
         },
         {
             "id": 529,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 975.0,
+            "nb_games_done": 4
         },
         {
             "id": 530,
@@ -2652,13 +2652,13 @@
         },
         {
             "id": 531,
-            "elo": 950.0,
-            "nb_games_done": 3
+            "elo": 875.0,
+            "nb_games_done": 6
         },
         {
             "id": 532,
-            "elo": 1025.0,
-            "nb_games_done": 6
+            "elo": 950.0,
+            "nb_games_done": 9
         },
         {
             "id": 533,
@@ -2667,8 +2667,8 @@
         },
         {
             "id": 534,
-            "elo": 1075.0,
-            "nb_games_done": 6
+            "elo": 1150.0,
+            "nb_games_done": 9
         },
         {
             "id": 535,
@@ -2677,8 +2677,8 @@
         },
         {
             "id": 536,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1050.0,
+            "nb_games_done": 5
         },
         {
             "id": 537,
@@ -2687,13 +2687,13 @@
         },
         {
             "id": 538,
-            "elo": 1050.0,
-            "nb_games_done": 3
+            "elo": 1075.0,
+            "nb_games_done": 6
         },
         {
             "id": 539,
-            "elo": 1000.0,
-            "nb_games_done": 1
+            "elo": 1025.0,
+            "nb_games_done": 4
         },
         {
             "id": 540,
